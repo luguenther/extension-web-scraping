@@ -1,0 +1,984 @@
+,Title,Author,Average Rating,First Published,Top 3 Genres,Cluster
+0,To Kill a Mockingbird,Harper Lee,4.26,1960.0,"Fiction, Historical Fiction, School",2
+1,Pride and Prejudice,Jane Austen,4.29,1813.0,"Fiction, Historical Fiction, Historical",2
+2,The Diary of a Young Girl,Anne Frank,4.2,1947.0,"Nonfiction, Biography, Memoir",0
+3,"Harry Potter and the Sorcerer’s Stone (Harry Potter, #1)",J.K. Rowling,4.47,1997.0,"Fantasy, Fiction, Young Adult",2
+4,Animal Farm,George Orwell,4.0,1945.0,"Fiction, Dystopia, Fantasy",2
+5,1984,George Orwell,4.2,1949.0,"Classics, Fiction, Science Fiction",2
+6,The Little Prince,Antoine de Saint-Exupéry,4.33,1943.0,"Classics, Fiction, Fantasy",2
+7,The Great Gatsby,F. Scott Fitzgerald,3.93,1925.0,"Fiction, School, Historical Fiction",2
+8,The Catcher in the Rye,J.D. Salinger,3.8,1951.0,"Classics, Fiction, Young Adult",2
+9,The Lord of the Rings,J.R.R. Tolkien,4.54,1955.0,"Fantasy, Classics, Fiction",2
+10,The Book Thief,Markus Zusak,4.39,2005.0,"Historical Fiction, Fiction, Young Adult",2
+11,Jane Eyre,Charlotte Brontë,4.15,1847.0,"Fiction, Gothic, Historical Fiction",2
+12,"The Chronicles of Narnia (The Chronicles of Narnia, #1-7)",C.S. Lewis,4.28,1956.0,"Fantasy, Classics, Fiction",2
+13,Lord of the Flies,William Golding,3.7,1954.0,"Fiction, Classics, Young Adult",2
+14,Romeo and Juliet,William Shakespeare,3.74,1597.0,"Classics, Plays, Fiction",2
+15,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",J.K. Rowling,4.62,2007.0,"Young Adult, Fiction, Magic",2
+16,The Kite Runner,Khaled Hosseini,4.35,2003.0,"Fiction, Historical Fiction, Contemporary",2
+17,"The Giver (The Giver, #1)",Lois Lowry,4.12,1993.0,"Young Adult, Fiction, Classics",2
+18,The Giving Tree,Shel Silverstein,4.38,1964.0,"Childrens, Classics, Fiction",2
+19,"Little Women (Little Women, #1)",Louisa May Alcott,4.16,1868.0,"Fiction, Historical Fiction, Young Adult",2
+20,Charlotte’s Web,E.B. White,4.2,1952.0,"Fiction, Childrens, Classics",2
+21,"The Hunger Games (The Hunger Games, #1)",Suzanne Collins,4.34,2008.0,"Young Adult, Fiction, Fantasy",2
+22,"The Hobbit, or There and Back Again",J.R.R. Tolkien,4.29,1937.0,"Fantasy, Fiction, Classics",2
+23,Fahrenheit 451,Ray Bradbury,3.97,1953.0,"Fiction, Science Fiction, Dystopia",2
+24,Of Mice and Men,John Steinbeck,3.89,1937.0,"Fiction, School, Historical Fiction",2
+25,Green Eggs and Ham,Dr. Seuss,4.31,1960.0,"Childrens, Picture Books, Classics",2
+26,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",J.K. Rowling,4.58,1999.0,"Fantasy, Fiction, Young Adult",2
+27,Wuthering Heights,Emily Brontë,3.9,1847.0,"Fiction, Gothic, Historical Fiction",2
+28,Alice’s Adventures in Wonderland / Through the Looking-Glass,Lewis Carroll,4.07,1871.0,"Fantasy, Fiction, Classics",2
+29,The Picture of Dorian Gray,Oscar Wilde,4.13,1890.0,"Classics, Fiction, Horror",2
+30,Night,Elie Wiesel,4.38,1956.0,"Nonfiction, Classics, Memoir",0
+31,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",J.K. Rowling,4.47,1997.0,"Fantasy, Fiction, Young Adult",2
+32,Gone with the Wind,Margaret Mitchell,4.31,1936.0,"Classics, Historical Fiction, Fiction",2
+33,The Holy Bible: King James Version,Anonymous,4.44,1611.0,"Classics, Nonfiction, Christian",2
+34,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",J.K. Rowling,4.57,2000.0,"Fantasy, Fiction, Young Adult",2
+35,"The Hitchhiker’s Guide to the Galaxy (The Hitchhiker's Guide to the Galaxy, #1)",Douglas Adams,4.23,1979.0,"Science Fiction, Fiction, Humor",2
+36,Hamlet,William Shakespeare,4.02,1601.0,"Plays, Fiction, School",2
+37,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",J.K. Rowling,4.58,2005.0,"Fantasy, Fiction, Young Adult",2
+38,The Adventures of Huckleberry Finn,Mark Twain,3.83,1884.0,"Fiction, Classics, Historical Fiction",2
+39,Tolkien On Fairy-stories,J.R.R. Tolkien,4.32,2008.0,"Fantasy, Classics, Essays",2
+40,Les Misérables,Victor Hugo,4.21,1862.0,"Fiction, Historical Fiction, Literature",2
+41,Brave New World and Brave New World Revisited,Aldous Huxley,4.16,1958.0,"Fiction, Science Fiction, Dystopia",2
+42,Crime and Punishment,Fyodor Dostoevsky,4.28,1866.0,"Fiction, Russia, Russian Literature",2
+43,The Help,Kathryn Stockett,4.46,2009.0,"Fiction, Historical Fiction, Historical",2
+44,The Secret Garden,Frances Hodgson Burnett,4.16,1911.0,"Fiction, Classics, Childrens",2
+45,"The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",C.S. Lewis,4.24,1950.0,"Fantasy, Fiction, Young Adult",2
+46,Memoirs of a Geisha,Arthur Golden,4.16,1997.0,"Fiction, Historical Fiction, Romance",2
+48,A Christmas Carol,Charles Dickens,4.09,1843.0,"Fiction, Christmas, Classics",2
+49,"The Cat in the Hat (Cat in the Hat, #1)",Dr. Seuss,4.19,1957.0,"Childrens, Picture Books, Fiction",2
+50,The Outsiders,S.E. Hinton,4.14,1967.0,"Classics, Young Adult, Fiction",2
+51,A Thousand Splendid Suns,Khaled Hosseini,4.45,2007.0,"Fiction, Historical Fiction, Historical",2
+52,One hundred years of solitude,Gabriel García Márquez,4.12,1967.0,"Fiction, Magical Realism, Fantasy",2
+53,"Anne of Green Gables (Anne of Green Gables, #1)",L.M. Montgomery,4.32,1908.0,"Classics, Fiction, Young Adult",2
+54,The Grapes of Wrath,John Steinbeck,4.02,1939.0,"Classics, Fiction, Historical Fiction",2
+55,The Count of Monte Cristo,Alexandre Dumas,4.31,1846.0,"Fiction, Historical Fiction, Adventure",2
+56,Where the Sidewalk Ends,Shel Silverstein,4.34,1974.0,"Poetry, Childrens, Classics",2
+57,"Ender’s Game (Ender's Saga, #1)",Orson Scott Card,4.31,1985.0,"Science Fiction, Fiction, Young Adult",2
+58,Where the Wild Things Are,Maurice Sendak,4.25,1963.0,"Picture Books, Childrens, Fiction",2
+59,The Color Purple,Alice Walker,4.27,1982.0,"Fiction, Historical Fiction, Feminism",2
+60,"The Handmaid’s Tale (The Handmaid's Tale, #1)",Margaret Atwood,4.15,1985.0,"Fiction, Classics, Dystopia",2
+61,The Adventures of Tom Sawyer,Mark Twain,3.92,1876.0,"Fiction, Classics, Adventure",2
+62,A Tale of Two Cities,Charles Dickens,3.87,1859.0,"Classics, Fiction, Historical Fiction",2
+63,Life of Pi,Yann Martel,3.94,2001.0,"Fiction, Fantasy, Classics",2
+64,Frankenstein: The 1818 Text,Mary Wollstonecraft Shelley,3.88,1818.0,"Horror, Fiction, Science Fiction",2
+65,One Flew Over the Cuckoo’s Nest,Ken Kesey,4.2,1962.0,"Fiction, Classics, Psychology",2
+66,"Oh, the Places You’ll Go!",Dr. Seuss,4.37,1990.0,"Childrens, Picture Books, Fiction",2
+67,Anna Karenina,Leo Tolstoy,4.1,1878.0,"Fiction, Romance, Russia",2
+68,"Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",Mitch Albom,4.19,1997.0,"Nonfiction, Memoir, Biography",0
+69,"The Fellowship of the Ring (The Lord of the Rings, #1)",J.R.R. Tolkien,4.4,1954.0,"Fantasy, Classics, Fiction",2
+70,Slaughterhouse-Five,Kurt Vonnegut Jr.,4.1,1969.0,"Fiction, Science Fiction, Classics",2
+71,"Winnie-the-Pooh (Winnie-the-Pooh, #1)",A.A. Milne,4.38,1928.0,"Childrens, Fiction, Classics",2
+72,The Old Man and the Sea,Ernest Hemingway,3.81,1952.0,"Fiction, Literature, Novels",2
+73,Catch-22,Joseph Heller,3.99,1961.0,"Classics, Fiction, Historical Fiction",2
+74,The Scarlet Letter,Nathaniel Hawthorne,3.44,1850.0,"Fiction, Historical Fiction, School",2
+75,The Alchemist,Paulo Coelho,3.92,1988.0,"Fiction, Fantasy, Philosophy",2
+76,Macbeth,William Shakespeare,3.89,1623.0,"Classics, Plays, Fiction",2
+77,"Twilight (The Twilight Saga, #1)",Stephenie Meyer,3.66,2005.0,"Fantasy, Young Adult, Romance",2
+78,The Metamorphosis,Franz Kafka,3.89,1915.0,"Classics, Fiction, Fantasy",2
+79,Lolita,Vladimir Nabokov,3.87,1955.0,"Fiction, Literature, Russia",2
+80,The Stranger,Albert Camus,4.03,1942.0,"Classics, Fiction, Philosophy",2
+81,Siddhartha,Hermann Hesse,4.08,1922.0,"Fiction, Philosophy, Spirituality",2
+82,The Time Traveler's Wife,Audrey Niffenegger,4.0,2003.0,"Fiction, Romance, Fantasy",2
+83,Goodnight Moon,Margaret Wise Brown,4.32,1947.0,"Childrens, Picture Books, Fiction",2
+84,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",J.K. Rowling,4.43,1998.0,"Fantasy, Fiction, Young Adult",2
+85,War and Peace,Leo Tolstoy,4.16,1869.0,"Classics, Fiction, Historical Fiction",2
+86,A Tree Grows in Brooklyn,Betty  Smith,4.3,1943.0,"Fiction, Historical Fiction, Classics",2
+87,The Alchemist,Paulo Coelho,3.92,1988.0,"Fiction, Fantasy, Philosophy",2
+88,All Quiet on the Western Front,Erich Maria Remarque,4.09,1928.0,"Fiction, Historical Fiction, War",2
+89,"The Little House Collection (Little House, #1-9)",Laura Ingalls Wilder,4.36,1971.0,"Classics, Historical Fiction, Childrens",2
+90,A Clockwork Orange,Anthony Burgess,4.0,1962.0,"Fiction, Science Fiction, Dystopia",2
+91,The Stand,Stephen        King,4.35,1978.0,"Horror, Fiction, Fantasy",2
+92,Don Quixote,Miguel de Cervantes Saavedra,3.9,1615.0,"Fiction, Classics, Literature",2
+93,Uncle Tom’s Cabin,Harriet Beecher Stowe,3.91,1852.0,"Classics, Fiction, Historical Fiction",2
+95,Atlas Shrugged,Ayn Rand,3.69,1957.0,"Fiction, Classics, Philosophy",2
+96,The Brothers Karamazov,Fyodor Dostoevsky,4.38,1880.0,"Fiction, Russia, Classics",2
+97,A Story of Yesterday,Sergio Cobo,4.54,2014.0,"Thriller, Mystery, Spanish Literature",2
+98,Brave New World,Aldous Huxley,3.99,1932.0,"Fiction, Science Fiction, Dystopia",2
+99,"I Know Why the Caged Bird Sings (Maya Angelou's Autobiography, #1)",Maya Angelou,4.3,1969.0,"Nonfiction, Classics, Memoir",0
+100,"Moby-Dick or, The Whale",Herman Melville,3.56,1851.0,"Fiction, Literature, Adventure",2
+101,The Poisonwood Bible,Barbara Kingsolver,4.1,1998.0,"Fiction, Historical Fiction, Africa",2
+102,The Book of Mormon: Another Testament of Jesus Christ,Joseph Smith Jr.,4.24,1830.0,"Religion, Nonfiction, Lds",2
+103,"The da Vinci Code (Robert Langdon, #2)",Dan    Brown,3.93,2003.0,"Fiction, Mystery, Thriller",2
+104,Great Expectations,Charles Dickens,3.8,1861.0,"Classics, Fiction, Literature",2
+105,The Hiding Place: The Triumphant True Story of Corrie Ten Boom,Corrie ten Boom,4.47,1971.0,"Nonfiction, Biography, History",0
+106,"The Good Earth (House of Earth, #1)",Pearl S. Buck,4.01,1931.0,"Fiction, Historical Fiction, China",2
+107,Dracula,Bram Stoker,4.02,1897.0,"Horror, Fiction, Fantasy",2
+108,"A Wrinkle in Time (Time Quintet, #1)",Madeleine L'Engle,3.98,1962.0,"Fantasy, Fiction, Classics",2
+109,The Fault in Our Stars,John Green,4.13,2012.0,"Young Adult, Fiction, Contemporary",2
+110,Matilda,Roald Dahl,4.33,1988.0,"Fiction, Childrens, Classics",2
+111,The Perks of Being a Wallflower,Stephen Chbosky,4.23,1999.0,"Young Adult, Fiction, Classics",2
+112,The Girl With the Dragon Tattoo (Millennium #1),Stieg Larsson,4.17,2005.0,"Fiction, Mystery, Thriller",2
+113,The Elephant Tree,R.D. Ronald,3.78,2010.0,"Thriller, Mystery, Fiction",2
+114,Sense and Sensibility,Jane Austen,4.09,1811.0,"Fiction, Historical Fiction, Literature",2
+115,The Princess Bride,William Goldman,4.27,1973.0,"Fantasy, Fiction, Romance",2
+117,East of Eden,John Steinbeck,4.42,1952.0,"Fiction, Classics, Historical Fiction",2
+118,The Zombie Room,R.D. Ronald,3.82,2012.0,"Thriller, Mystery, Fiction",2
+119,Where the Red Fern Grows,Wilson Rawls,4.12,1961.0,"Classics, Fiction, Young Adult",2
+120,Man’s Search for Meaning,Viktor E. Frankl,4.38,1946.0,"Nonfiction, Psychology, Philosophy",2
+121,The Tell-Tale Heart and Other Writings,Edgar Allan Poe,4.19,1843.0,"Classics, Horror, Fiction",2
+122,"A Game of Thrones (A Song of Ice and Fire, #1)",George R.R. Martin,4.45,1996.0,"Fantasy, Fiction, Epic Fantasy",2
+123,"Catching Fire (The Hunger Games, #2)",Suzanne Collins,4.34,2009.0,"Young Adult, Fiction, Fantasy",2
+124,The Curious Incident of the Dog in the Night-Time,Mark Haddon,3.89,2003.0,"Fiction, Mystery, Young Adult",2
+125,The Lorax,Dr. Seuss,4.35,1971.0,"Childrens, Picture Books, Fiction",2
+126,The Declaration of Independence / The Constitution of the United States,Founding Fathers,4.44,1776.0,"History, Nonfiction, Politics",0
+127,"Watership Down (Watership Down, #1)",Richard  Adams,4.09,1972.0,"Classics, Fiction, Fantasy",2
+128,Rebecca,Daphne du Maurier,4.25,1938.0,"Fiction, Mystery, Gothic",2
+129,The Bell Jar,Sylvia Plath,4.06,1963.0,"Fiction, Feminism, Mental Health",2
+130,"Dune (Dune, #1)",Frank Herbert,4.28,1965.0,"Science Fiction, Fantasy, Audiobook",2
+131,"Charlie and the Chocolate Factory (Charlie Bucket, #1)",Roald Dahl,4.16,1964.0,"Fiction, Fantasy, Childrens",2
+132,And Then There Were None,Agatha Christie,4.28,1939.0,"Mystery, Fiction, Thriller",2
+133,The Last Lecture,Randy Pausch,4.26,2008.0,"Nonfiction, Memoir, Biography",0
+134,The Lovely Bones,Alice Sebold,3.86,2002.0,"Fiction, Mystery, Young Adult",2
+135,The Velveteen Rabbit,Margery Williams Bianco,4.31,1922.0,"Classics, Childrens, Fiction",2
+136,The Fountainhead,Ayn Rand,3.89,1943.0,"Fiction, Classics, Philosophy",2
+137,Alice in Wonderland,Jane Carruth,4.03,1865.0,"Classics, Fantasy, Fiction",2
+138,The Call of the Wild,Jack London,3.91,1903.0,"Fiction, Adventure, Young Adult",2
+139,"The Return of the King (The Lord of the Rings, #3)",J.R.R. Tolkien,4.57,1955.0,"Fantasy, Fiction, Adventure",2
+140,Perfume: The Story of a Murderer,Patrick Süskind,4.04,1985.0,"Fiction, Classics, Historical Fiction",2
+141,Animal Farm / 1984,George Orwell,4.3,1949.0,"Classics, Fiction, Dystopia",2
+142,The Five People You Meet in Heaven,Mitch Albom,4.0,2003.0,"Fiction, Contemporary, Inspirational",2
+143,"The Wonderful Wizard of Oz (Oz, #1)",L. Frank Baum,4.0,1900.0,"Classics, Fantasy, Fiction",2
+144,"Angela’s Ashes (Frank McCourt, #1)",Frank McCourt,4.15,1996.0,"Nonfiction, Memoir, Biography",0
+145,"The Two Towers (The Lord of the Rings, #2)",J.R.R. Tolkien,4.49,1954.0,"Fantasy, Fiction, Adventure",2
+146,The Girl Who Played With Fire (Millennium #2),Stieg Larsson,4.26,2006.0,"Fiction, Mystery, Thriller",2
+147,Bridge to Terabithia,Katherine Paterson,4.06,1977.0,"Fiction, Young Adult, Classics",2
+148,Love You Forever,Robert Munsch,4.38,1986.0,"Picture Books, Childrens, Fiction",2
+149,The Road,Cormac McCarthy,3.99,2006.0,"Fiction, Science Fiction, Dystopia",2
+150,The Divine Comedy: Inferno - Purgatorio - Paradiso,Dante Alighieri,4.08,1320.0,"Poetry, Fiction, Literature",2
+151,A Prayer for Owen Meany,John Irving,4.24,1989.0,"Fiction, Classics, Contemporary",2
+152,A Midsummer Night’s Dream,William Shakespeare,3.94,1595.0,"Plays, Fiction, Fantasy",2
+153,The Name of the Rose,Umberto Eco,4.14,1980.0,"Fiction, Historical Fiction, Mystery",2
+154,Persuasion,Jane Austen,4.15,1817.0,"Fiction, Classics, Historical Fiction",2
+155,"The Golden Compass (His Dark Materials, #1)",Philip Pullman,4.03,1995.0,"Fantasy, Young Adult, Fiction",2
+156,The Prophet,Kahlil Gibran,4.23,1923.0,"Poetry, Classics, Philosophy",2
+158,Water for Elephants,Sara Gruen,4.11,2006.0,"Fiction, Historical Fiction, Romance",2
+159,The Boy in the Striped Pajamas,John Boyne,4.16,2006.0,"Historical Fiction, Fiction, Young Adult",2
+160,"The Pillars of the Earth (Kingsbridge, #1)",Ken Follett,4.34,1989.0,"Historical Fiction, Fiction, Historical",2
+161,How the Grinch Stole Christmas!,Dr. Seuss,4.38,1957.0,"Childrens, Picture Books, Christmas",2
+162,Jonathan Livingston Seagull,Richard Bach,3.86,1970.0,"Fiction, Classics, Philosophy",2
+163,Oliver Twist,Charles Dickens,3.88,1838.0,"Fiction, Classics, Historical Fiction",2
+164,The Secret Life of Bees,Sue Monk Kidd,4.1,2001.0,"Fiction, Historical Fiction, Classics",2
+165,The Master and Margarita,Mikhail Bulgakov,4.29,1967.0,"Fiction, Russia, Fantasy",2
+166,"Mockingjay (The Hunger Games, #3)",Suzanne Collins,4.1,2010.0,"Young Adult, Dystopia, Fiction",2
+167,"The Notebook (The Notebook, #1)",Nicholas Sparks,4.16,1996.0,"Romance, Fiction, Chick Lit",2
+168,The Complete Sherlock Holmes,Arthur Conan Doyle,4.5,1915.0,"Classics, Mystery, Fiction",2
+169,In Cold Blood,Truman Capote,4.09,1966.0,"Nonfiction, True Crime, Crime",2
+170,Gone Girl,Gillian Flynn,4.14,2012.0,"Fiction, Mystery, Thriller",2
+171,"The Shadow of the Wind (The Cemetery of Forgotten Books, #1)",Carlos Ruiz Zafón,4.3,2001.0,"Fiction, Historical Fiction, Mystery",2
+172,Heart of Darkness,Joseph Conrad,3.43,1899.0,"Fiction, Classics, Literature",2
+173,The Crucible,Arthur Miller,3.61,1953.0,"Classics, Plays, Fiction",2
+174,Love in the Time of Cholera,Gabriel García Márquez,3.94,1985.0,"Fiction, Historical Fiction, Magical Realism",2
+175,The Red Tent,Anita Diamant,4.2,1997.0,"Historical Fiction, Fiction, Historical",2
+176,The Girl on the Train,Paula Hawkins,3.96,2015.0,"Fiction, Mystery, Thriller",2
+177,The Glass Castle,Jeannette Walls,4.32,2005.0,"Nonfiction, Memoir, Biography",0
+178,The Gift of the Magi,O. Henry,4.11,1905.0,"Classics, Short Stories, Fiction",2
+180,"Eat, Pray, Love",Elizabeth Gilbert,3.64,2006.0,"Nonfiction, Memoir, Travel",0
+181,"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,4.02,1976.0,"Horror, Fantasy, Fiction",2
+182,The Unbearable Lightness of Being,Milan Kundera,4.11,1984.0,"Fiction, Philosophy, Literature",2
+183,On the Road,Jack Kerouac,3.61,1957.0,"Fiction, Travel, Literature",2
+184,The Canterbury Tales,Geoffrey Chaucer,3.52,1400.0,"Fiction, Poetry, Classics",2
+185,"Red Dragon (Hannibal Lecter, #1)",Thomas  Harris,4.07,1981.0,"Horror, Fiction, Thriller",2
+186,Dark Places,Gillian Flynn,3.95,2009.0,"Mystery, Fiction, Thriller",2
+188,Mystic River,Dennis Lehane,4.17,2001.0,"Mystery, Fiction, Thriller",2
+189,Walden,Henry David Thoreau,3.78,1854.0,"Philosophy, Nonfiction, Nature",2
+190,The Screwtape Letters,C.S. Lewis,4.27,1942.0,"Fiction, Christian, Classics",2
+191,Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,3.83,1886.0,"Horror, Gothic, Mystery",2
+192,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,4.61,1954.0,"Fantasy, Fiction, Classics",2
+193,Fight Club,Chuck Palahniuk,4.18,1996.0,"Fiction, Classics, Thriller",2
+194,"The Godfather (The Godfather, #1)",Mario Puzo,4.39,1969.0,"Fiction, Classics, Crime",2
+195,Never Lie,Freida McFadden,4.09,2022.0,"Thriller, Mystery, Audiobook",2
+196,Robinson Crusoe,Daniel Defoe,3.68,1719.0,"Fiction, Classics, Adventure",2
+197,Lock Every Door,Riley Sager,3.89,2019.0,"Thriller, Mystery, Mystery Thriller",2
+198,None of This Is True,Lisa Jewell,4.1,2023.0,"Thriller, Mystery, Audiobook",2
+199,Gulliver’s Travels,Jonathan Swift,3.59,1726.0,"Classics, Fiction, Fantasy",2
+200,"The Woman in Cabin 10 (Lo Blacklock, #1)",Ruth Ware,3.73,2016.0,"Mystery, Thriller, Fiction",2
+201,The Paris Apartment,Lucy Foley,3.65,2022.0,"Mystery, Thriller, Fiction",2
+202,The Woman in the Window,A.J. Finn,3.95,2018.0,"Thriller, Mystery, Fiction",2
+203,Big Little Lies,Liane Moriarty,4.31,2014.0,"Fiction, Mystery, Contemporary",2
+204,Emma,Jane Austen,4.05,1815.0,"Fiction, Historical Fiction, Literature",2
+205,The Origin of Species,Charles Darwin,4.01,1859.0,"Science, Nonfiction, Classics",2
+206,Invisible Man,Ralph Ellison,3.92,1952.0,"Fiction, Classics, Literature",2
+207,"The Housemaid's Secret (The Housemaid, #2)",Freida McFadden,4.21,2023.0,"Thriller, Mystery, Fiction",2
+208,Sophie’s World,Jostein Gaarder,3.97,1991.0,"Fiction, Classics, Young Adult",2
+209,The Trial,Franz Kafka,3.95,1925.0,"Fiction, Philosophy, Literature",2
+210,The Prince,Niccolò Machiavelli,3.84,1513.0,"Philosophy, Nonfiction, Politics",0
+211,"The Family Upstairs (The Family Upstairs, #1)",Lisa Jewell,3.96,2019.0,"Thriller, Mystery, Fiction",2
+212,The Complete Grimm's Fairy Tales,Jacob Grimm,4.24,1812.0,"Classics, Fantasy, Fiction",2
+213,Before I Go to Sleep,S.J. Watson,3.9,2011.0,"Thriller, Fiction, Mystery",2
+214,Candide,Voltaire,3.76,1759.0,"Fiction, Philosophy, France",2
+215,Watchmen,Alan             Moore,4.38,1987.0,"Graphic Novels, Fiction, Science Fiction",2
+216,The Time Machine,H.G. Wells,3.9,1895.0,"Science Fiction, Fiction, Classics",2
+217,Pretty Girls,Karin Slaughter,4.02,2015.0,"Thriller, Mystery, Fiction",2
+218,"You (You, #1)",Caroline Kepnes,3.96,2014.0,"Thriller, Fiction, Mystery",2
+219,Shutter Island,Dennis Lehane,4.13,2003.0,"Mystery, Fiction, Thriller",2
+220,Roots: The Saga of an American Family,Alex Haley,4.44,1976.0,"Historical Fiction, Fiction, Classics",2
+221,No Exit,Taylor  Adams,3.99,2017.0,"Thriller, Mystery Thriller, Mystery",2
+222,"Beloved (Beloved Trilogy, #1)",Toni Morrison,3.97,1987.0,"Fiction, Classics, Historical Fiction",2
+223,The Couple Next Door,Shari Lapena,3.8,2016.0,"Thriller, Mystery, Fiction",2
+224,"The Bone Collector (Lincoln Rhyme, #1)",Jeffery Deaver,4.2,1997.0,"Mystery, Thriller, Fiction",2
+225,The Only One Left,Riley Sager,4.14,2023.0,"Thriller, Mystery, Mystery Thriller",2
+226,The Last Thing He Told Me,Laura Dave,3.83,2021.0,"Mystery, Fiction, Thriller",2
+227,Go Ask Alice,Beatrice Sparks,3.74,1971.0,"Young Adult, Fiction, Classics",2
+228,Atonement,Ian McEwan,3.95,2001.0,"Fiction, Historical Fiction, Classics",2
+229,Final Girls,Riley Sager,3.82,2017.0,"Thriller, Horror, Mystery",2
+230,Then She Was Gone,Lisa Jewell,4.05,2017.0,"Thriller, Mystery, Fiction",2
+231,The Things They Carried,Tim O'Brien,4.14,1990.0,"Fiction, Historical Fiction, Classics",2
+232,Behind Closed Doors,B.A. Paris,3.97,2016.0,"Thriller, Fiction, Mystery",2
+233,My Sister’s Keeper,Jodi Picoult,4.1,2004.0,"Fiction, Chick Lit, Young Adult",2
+234,"The Lightning Thief (Percy Jackson and the Olympians, #1)",Rick Riordan,4.31,2005.0,"Fantasy, Young Adult, Mythology",2
+235,Home Before Dark,Riley Sager,4.06,2020.0,"Horror, Thriller, Mystery",2
+236,Tuck Everlasting,Natalie Babbitt,3.9,1975.0,"Fantasy, Classics, Young Adult",2
+237,"Divergent (Divergent, #1)",Veronica Roth,4.14,2011.0,"Young Adult, Dystopia, Fantasy",2
+238,A Flicker in the Dark,Stacy Willingham,3.99,2022.0,"Thriller, Mystery, Mystery Thriller",2
+239,Stranger in a Strange Land,Robert A. Heinlein,3.92,1961.0,"Science Fiction, Fiction, Classics",2
+240,The Sun Also Rises,Ernest Hemingway,3.79,1926.0,"Classics, Fiction, Literature",2
+241,Mere Christianity,C.S. Lewis,4.36,1952.0,"Christian, Nonfiction, Theology",2
+242,"Murder on the Orient Express (Hercule Poirot, #10)",Agatha Christie,4.2,1934.0,"Mystery, Classics, Fiction",2
+243,"The Mists of Avalon (Avalon, #1)",Marion Zimmer Bradley,4.13,1982.0,"Fantasy, Fiction, Historical Fiction",2
+244,The Complete Maus,Art Spiegelman,4.58,1980.0,"Graphic Novels, Comics, Nonfiction",2
+245,"The Tale of Peter Rabbit (World of Beatrix Potter, #1)",Beatrix Potter,4.22,1902.0,"Childrens, Classics, Picture Books",2
+246,Number the Stars,Lois Lowry,4.19,1989.0,"Historical Fiction, Young Adult, Fiction",2
+247,The Phantom Tollbooth,Norton Juster,4.2,1961.0,"Fantasy, Fiction, Classics",2
+249,American Gods,Neil Gaiman,4.11,2001.0,"Fantasy, Fiction, Mythology",2
+250,James and the Giant Peach,Roald Dahl,4.03,1961.0,"Childrens, Fantasy, Fiction",2
+251,Bury My Heart at Wounded Knee: An Indian History of the American West,Dee Brown,4.26,1970.0,"History, Nonfiction, Native American",0
+252,"The Ultimate Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)",Douglas Adams,4.38,1996.0,"Science Fiction, Fiction, Humor",2
+253,A Little Princess,Frances Hodgson Burnett,4.23,1905.0,"Fiction, Childrens, Classics",2
+254,Schindler’s List,Thomas Keneally,4.34,1982.0,"History, Nonfiction, Holocaust",0
+255,The Autobiography of Malcolm X,Malcolm X,4.37,1965.0,"Nonfiction, Biography, History",0
+256,The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury,Bill Watterson,4.65,1988.0,"Comics, Humor, Graphic Novels",2
+257,"A Child Called ""It"" (Dave Pelzer, #1)",Dave Pelzer,4.13,1995.0,"Nonfiction, Memoir, Biography",0
+258,Their Eyes Were Watching God,Zora Neale Hurston,3.99,1937.0,"Classics, Fiction, Historical Fiction",2
+259,Middlesex,Jeffrey Eugenides,4.04,2002.0,"Fiction, Historical Fiction, Contemporary",2
+260,Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time,Greg Mortenson,3.66,2006.0,"Nonfiction, Memoir, Biography",0
+261,Into the Wild,Jon Krakauer,4.02,1996.0,"Nonfiction, Biography, Adventure",0
+262,Leaves of Grass,Walt Whitman,4.12,1855.0,"Poetry, Classics, Fiction",2
+263,"Holes (Holes, #1)",Louis Sachar,4.01,1998.0,"Young Adult, Fiction, Middle Grade",2
+264,The Wind in the Willows,Kenneth Grahame,4.02,1908.0,"Fiction, Childrens, Fantasy",2
+266,Speak,Laurie Halse Anderson,4.05,1999.0,"Young Adult, Fiction, Contemporary",2
+267,Peter Pan,J.M. Barrie,4.04,1911.0,"Fantasy, Fiction, Childrens",2
+268,A People’s History of the United States: 1492 - Present,Howard Zinn,4.08,1980.0,"History, Nonfiction, Politics",0
+269,Looking for Alaska,John Green,3.96,2005.0,"Young Adult, Fiction, Contemporary",2
+270,The World According to Garp,John Irving,4.11,1978.0,"Fiction, Classics, Literature",2
+271,The Story of My Life,Helen Keller,4.08,1902.0,"Nonfiction, Biography, Memoir",0
+272,"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",Terry Pratchett,4.25,1990.0,"Fantasy, Fiction, Humor",2
+273,A Brief History of Time,Stephen Hawking,4.21,1988.0,"Science, Nonfiction, Physics",2
+274,The Secret Magdalene,Ki Longfellow,4.15,2005.0,"Historical Fiction, Fiction, Religion",2
+275,"Things Fall Apart (The African Trilogy, #1)",Chinua Achebe,3.74,1958.0,"Fiction, Classics, Historical Fiction",2
+276,"The Hound of the Baskervilles (Sherlock Holmes, #5)",Arthur Conan Doyle,4.13,1901.0,"Mystery, Fiction, Crime",2
+277,Hidden Pictures,Jason Rekulak,4.16,2022.0,"Horror, Thriller, Mystery",2
+278,Island of the Blue Dolphins,Scott O'Dell,3.87,1960.0,"Fiction, Young Adult, Historical Fiction",2
+279,A Short History of Nearly Everything,Bill Bryson,4.22,2003.0,"Nonfiction, Science, History",0
+280,The Addiction Manifesto,Jerry Weaver,4.76,2018.0,"Nonfiction, Self Help, Memoir",0
+281,Cat’s Cradle,Kurt Vonnegut Jr.,4.15,1963.0,"Fiction, Classics, Science Fiction",2
+282,زندگی مه آلود پریا,سید مرتضی مصطفوی,3.34,2013.0,"Fiction, Book details & editions, ",2
+283,The Raven,Edgar Allan Poe,4.29,1845.0,"Classics, Poetry, Horror",2
+284,A Farewell to Arms,Ernest Hemingway,3.82,1929.0,"Fiction, Historical Fiction, Classics",2
+285,A Separate Peace,John Knowles,3.6,1959.0,"Classics, Fiction, Historical Fiction",2
+286,Blindness,José Saramago,4.18,1995.0,"Fiction, Dystopia, Classics",2
+287,Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg,4.28,1987.0,"Fiction, Historical Fiction, Classics",2
+288,The Complete Fairy Tales,Hans Christian Andersen,4.29,1850.0,"Classics, Fantasy, Fiction",2
+289,The Shack,William Paul Young,3.83,2007.0,"Fiction, Christian, Christian Fiction",2
+291,Madame Bovary,Gustave Flaubert,3.71,1856.0,"Fiction, Classics, France",2
+292,The Joy Luck Club,Amy Tan,3.97,1989.0,"Fiction, Historical Fiction, Classics",2
+293,"Angels & Demons (Robert Langdon, #1)",Dan    Brown,3.95,2000.0,"Fiction, Mystery, Thriller",2
+294,How to Win Friends & Influence People,Dale Carnegie,4.22,1936.0,"Self Help, Nonfiction, Business",2
+295,The God Delusion,Richard Dawkins,3.9,2006.0,"Nonfiction, Religion, Science",2
+296,The Neverending Story,Michael Ende,4.18,1979.0,"Fantasy, Fiction, Young Adult",2
+297,Sophie’s Choice,William Styron,4.17,1979.0,"Fiction, Historical Fiction, Holocaust",2
+298,Never Let Me Go,Kazuo Ishiguro,3.85,2005.0,"Fiction, Science Fiction, Dystopia",2
+299,A Confederacy of Dunces,John Kennedy Toole,3.89,1980.0,"Fiction, Humor, Literature",2
+300,"Guns, Germs, and Steel: The Fates of Human Societies",Jared Diamond,4.04,1997.0,"History, Nonfiction, Science",0
+301,The Color Purple,Alice Walker,4.27,1982.0,"Fiction, Historical Fiction, Feminism",2
+302,Tess of the D’Urbervilles,Thomas Hardy,3.84,1891.0,"Classics, Fiction, Literature",2
+303,Flow Down Like Silver,Ki Longfellow,4.01,2009.0,"Historical Fiction, Fiction, Egypt",2
+304,Extremely Loud & Incredibly Close,Jonathan Safran Foer,3.97,2005.0,"Fiction, Historical Fiction, Contemporary",2
+305,Local Woman Missing,Mary Kubica,4.13,2021.0,"Thriller, Mystery, Mystery Thriller",2
+306,"Outlander (Outlander, #1)",Diana Gabaldon,4.26,1991.0,"Historical Fiction, Romance, Fantasy",2
+307,"The Clan of the Cave Bear (Earth's Children, #1)",Jean M. Auel,4.1,1980.0,"Historical Fiction, Fiction, Fantasy",2
+308,The Tao of Pooh,Benjamin Hoff,4.01,1982.0,"Philosophy, Nonfiction, Spirituality",2
+309,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.16,1989.0,"Self Help, Nonfiction, Business",2
+310,"Eclipse (The Twilight Saga, #3)",Stephenie Meyer,3.73,2007.0,"Fantasy, Young Adult, Romance",2
+311,Ulysses,James Joyce,3.77,1922.0,"Fiction, Literature, Classics",2
+312,A Light in the Attic,Shel Silverstein,4.36,1981.0,"Poetry, Childrens, Classics",2
+313,The Phantom of the Opera,Gaston Leroux,3.96,1910.0,"Fiction, Horror, Romance",2
+314,One Day in the Life of Ivan Denisovich,Aleksandr Solzhenitsyn,3.98,1962.0,"Fiction, Classics, Russia",2
+315,"Lonesome Dove (Lonesome Dove, #1)",Larry McMurtry,4.55,1985.0,"Fiction, Historical Fiction, Westerns",2
+316,"The Shining (The Shining, #1)",Stephen        King,4.28,1977.0,"Horror, Fiction, Thriller",2
+317,"Breaking Dawn (The Twilight Saga, #4)",Stephenie Meyer,3.75,2008.0,"Fantasy, Young Adult, Romance",2
+318,Those Empty Eyes,Charlie Donlea,4.16,2023.0,"Thriller, Mystery, Mystery Thriller",2
+319,The Jungle,Upton Sinclair,3.77,1906.0,"Classics, Fiction, Historical Fiction",2
+320,The Green Mile,Stephen        King,4.48,1996.0,"Horror, Fiction, Fantasy",2
+321,"The Name of the Wind (The Kingkiller Chronicle, #1)",Patrick Rothfuss,4.52,2007.0,"Fantasy, Fiction, Epic Fantasy",2
+322,Treasure Island,Robert Louis Stevenson,3.85,1882.0,"Fiction, Adventure, Historical Fiction",2
+323,Paradise Lost,John Milton,3.85,1667.0,"Poetry, Fiction, Classics",2
+324,The God of Small Things,Arundhati Roy,3.96,1997.0,"Fiction, India, Historical Fiction",2
+325,Nickel and Dimed: On (Not) Getting By in America,Barbara Ehrenreich,3.65,2001.0,"Nonfiction, Sociology, Politics",0
+326,All Creatures Great and Small / All Things Bright and Beautiful,James Herriot,4.34,1972.0,"Nonfiction, Classics, Animals",2
+327,Horton Hears a Who!,Dr. Seuss,4.21,1954.0,"Childrens, Picture Books, Fiction",2
+329,"Are You There God? It’s Me, Margaret",Judy Blume,3.94,1970.0,"Young Adult, Fiction, Childrens",2
+330,The House of the Spirits,Isabel Allende,4.29,1982.0,"Fiction, Magical Realism, Historical Fiction",2
+331,The Complete Works,William Shakespeare,4.48,1623.0,"Classics, Poetry, Fiction",2
+332,"The Foundation Trilogy (Foundation, #1-3)",Isaac Asimov,4.42,1953.0,"Science Fiction, Fiction, Classics",2
+333,V for Vendetta,Alan             Moore,4.26,1990.0,"Graphic Novels, Comics, Fiction",2
+334,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",J.K. Rowling,4.5,2003.0,"Fantasy, Young Adult, Fiction",2
+335,"New Moon (The Twilight Saga, #2)",Stephenie Meyer,3.61,2006.0,"Fantasy, Young Adult, Romance",2
+336,"Neverwhere (London Below, #1)",Neil Gaiman,4.17,1996.0,"Fantasy, Fiction, Urban Fantasy",2
+337,"Little House in the Big Woods (Little House, #1)",Laura Ingalls Wilder,4.21,1932.0,"Classics, Historical Fiction, Childrens",2
+338,Julius Caesar,William Shakespeare,3.71,1599.0,"Plays, Fiction, Drama",2
+339,"Unbroken: A World War II Story of Survival, Resilience and Redemption",Laura Hillenbrand,4.39,2010.0,"Nonfiction, History, Biography",0
+340,The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,4.19,2008.0,"Historical Fiction, Fiction, Romance",2
+341,The Elements of Style,William Strunk Jr.,4.18,1918.0,"Writing, Nonfiction, Reference",2
+342,David Copperfield,Charles Dickens,4.04,1850.0,"Fiction, Literature, Historical Fiction",2
+343,The Importance of Being Earnest,Oscar Wilde,4.17,1895.0,"Classics, Plays, Fiction",2
+344,What Lies in the Woods,Kate Alice Marshall,3.95,2023.0,"Thriller, Mystery, Mystery Thriller",2
+345,For Whom the Bell Tolls,Ernest Hemingway,3.98,1940.0,"Classics, Historical Fiction, Literature",2
+346,"Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Phaedrus, #1)",Robert M. Pirsig,3.78,1974.0,"Philosophy, Fiction, Classics",2
+347,Death of a Salesman,Arthur Miller,3.58,1949.0,"Classics, Plays, Fiction",2
+348,The Communist Manifesto,Karl Marx,3.67,1848.0,"Philosophy, Nonfiction, Politics",0
+349,Othello,William Shakespeare,3.89,1603.0,"Classics, Plays, Fiction",2
+350,The Thorn Birds,Colleen McCullough,4.25,1977.0,"Fiction, Historical Fiction, Romance",2
+351,A Walk in the Woods: Rediscovering America on the Appalachian Trail,Bill Bryson,4.07,1998.0,"Nonfiction, Travel, Memoir",0
+352,It,Stephen        King,4.24,1986.0,"Horror, Fiction, Thriller",2
+353,"Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1)",Gregory Maguire,3.52,1995.0,"Fantasy, Fiction, Retellings",2
+354,Beowulf,Unknown,3.49,1000.0,"Poetry, Fiction, Fantasy",2
+355,Room,Emma Donoghue,4.08,2010.0,"Fiction, Contemporary, Thriller",2
+356,Norwegian Wood,Haruki Murakami,4.0,1987.0,"Fiction, Romance, Japan",2
+357,Eragon (The Inheritance Cycle #1),Christopher Paolini,3.96,2002.0,"Fantasy, Young Adult, Fiction",2
+358,"Sheever's Journal, Diary of a Poison Master",K.  Ritz,4.3,2019.0,"Drama, Contemporary, Historical Fiction",2
+359,"Shōgun (Asian Saga, #1)",James Clavell,4.41,1975.0,"Historical Fiction, Fiction, Japan",2
+360,A Fine Balance,Rohinton Mistry,4.38,1995.0,"Fiction, Historical Fiction, India",2
+361,The Reader,Bernhard Schlink,3.78,1995.0,"Fiction, Historical Fiction, Classics",2
+362,The Plague,Albert Camus,4.02,1947.0,"Fiction, Classics, Philosophy",2
+363,Thirteen Reasons Why,Jay Asher,3.84,2007.0,"Young Adult, Fiction, Contemporary",2
+364,"The Chosen (Reuven Malther, #1)",Chaim Potok,4.07,1966.0,"Fiction, Classics, Historical Fiction",2
+365,The Martian Chronicles,Ray Bradbury,4.16,1950.0,"Science Fiction, Fiction, Classics",2
+366,The Awakening,Kate Chopin,3.68,1899.0,"Classics, Fiction, Feminism",2
+367,Who Moved My Cheese? An Amazing Way to Deal with Change in Your Work and in Your Life...,Spencer Johnson,3.87,1999.0,"Nonfiction, Self Help, Business",2
+368,Do Androids Dream of Electric Sheep?,Philip K. Dick,4.09,1968.0,"Science Fiction, Fiction, Dystopia",2
+369,"Lamb: The Gospel According to Biff, Christ’s Childhood Pal",Christopher Moore,4.23,2002.0,"Fiction, Humor, Historical Fiction",2
+370,"The Host (The Host, #1)",Stephenie Meyer,3.86,2008.0,"Fantasy, Young Adult, Science Fiction",2
+371,The Trigger: Hunting the Assassin Who Brought the World to War,Tim Butcher,3.81,2014.0,"History, Nonfiction, Biography",0
+372,Steppenwolf,Hermann Hesse,4.13,1927.0,"Fiction, Classics, Philosophy",2
+373,"Calvin and Hobbes (Calvin and Hobbes, #1)",Bill Watterson,4.61,1987.0,"Comics, Humor, Graphic Novels",2
+375,Holy Bible: New International Version,Anonymous,4.62,1455.0,"Christian, Nonfiction, Classics",2
+376,Much Ado About Nothing,William Shakespeare,4.06,1598.0,"Plays, Fiction, Classics",2
+377,"Cry, the Beloved Country",Alan Paton,3.92,1948.0,"Fiction, Classics, Historical Fiction",2
+378,The Cider House Rules,John Irving,4.17,1985.0,"Fiction, Classics, Historical Fiction",2
+379,"The Girl Who Kicked the Hornet’s Nest (Millennium, #3)",Stieg Larsson,4.24,2007.0,"Fiction, Mystery, Thriller",2
+380,Taming Flame,Therisa Peimer,4.29,2022.0,"Fiction, Novels, Magic",2
+381,"Wonder (Wonder, #1)",R.J. Palacio,4.36,2012.0,"Fiction, Young Adult, Middle Grade",2
+382,"Being a Witch, and Other Things I Didn't Ask For",Sara Pascoe,4.29,2015.0,"Adventure, Novels, Fiction",2
+383,"Faust, First Part",Johann Wolfgang von Goethe,3.86,1808.0,"Fiction, Plays, Poetry",2
+384,Johnny Got His Gun,Dalton Trumbo,4.2,1939.0,"Fiction, Classics, War",2
+385,Kafka on the Shore,Haruki Murakami,4.12,2002.0,"Fiction, Magical Realism, Fantasy",2
+386,Inferno,Dante Alighieri,4.03,1320.0,"Classics, Poetry, Fiction",2
+387,The Pilgrim's Progress,John Bunyan,4.07,1678.0,"Fiction, Christian, Christian Fiction",2
+388,Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream,Hunter S. Thompson,4.07,1971.0,"Fiction, Classics, Humor",2
+389,Dead Poets Society,N.H. Kleinbaum,4.17,1988.0,"Fiction, Young Adult, Contemporary",2
+390,Something Wicked This Way Comes,Ray Bradbury,3.9,1962.0,"Horror, Fantasy, Fiction",2
+392,"Hatchet (Brian's Saga, #1)",Gary Paulsen,3.79,1987.0,"Young Adult, Classics, Adventure",2
+393,"Think Twice (Myron Bolitar, #12)",Harlan Coben,4.26,2024.0,"Mystery, Thriller, Fiction",2
+394,"Jurassic Park (Jurassic Park, #1)",Michael Crichton,4.12,1990.0,"Science Fiction, Fiction, Thriller",2
+395,Pericles and Aspasia: A Story of Ancient Greece,Yvonne Korshak,4.29,2022.0,"Fiction, Drama, Historical Fiction",2
+396,Gray After Dark,Noelle W. Ihli,4.23,2024.0,"Thriller, Mystery Thriller, Mystery",2
+397,The Complete Persepolis,Marjane Satrapi,4.4,2007.0,"Graphic Novels, Nonfiction, Comics",2
+398,"The House at Pooh Corner (Winnie-the-Pooh, #2)",A.A. Milne,4.38,1928.0,"Classics, Childrens, Fiction",2
+399,Common Sense,Thomas Paine,4.0,1776.0,"History, Nonfiction, Classics",0
+400,"Not Forever, But For Now",Chuck Palahniuk,3.08,2023.0,"Fiction, Horror, Thriller",2
+401,The Four Agreements: A Practical Guide to Personal Freedom,Miguel Ruiz,4.19,1997.0,"Self Help, Nonfiction, Spirituality",2
+402,"The Power of One (The Power of One, #1)",Bryce Courtenay,4.35,1989.0,"Fiction, Historical Fiction, Africa",2
+403,A Walk to Remember,Nicholas Sparks,4.2,1999.0,"Romance, Fiction, Contemporary",2
+404,Look Closer,David Ellis,4.18,2022.0,"Thriller, Mystery, Mystery Thriller",2
+405,No One Can Know,Kate Alice Marshall,3.67,2024.0,"Thriller, Mystery, Mystery Thriller",2
+406,The Club,Ellery Lloyd,3.29,2022.0,"Mystery, Thriller, Fiction",2
+407,The Art of Racing in the Rain,Garth Stein,4.23,2008.0,"Fiction, Animals, Dogs",2
+408,"City of Bones (The Mortal Instruments, #1)",Cassandra Clare,4.07,2007.0,"Fantasy, Young Adult, Romance",2
+409,Shantaram,Gregory David Roberts,4.28,2003.0,"Fiction, Travel, Adventure",2
+410,The Roommate,Kiersten Modglin,3.82,2021.0,"Thriller, Psychological Thriller, Fiction",2
+411,The Immortal Life of Henrietta Lacks,Rebecca Skloot,4.12,2010.0,"Nonfiction, Science, History",0
+412,Cloud Atlas,David Mitchell,4.01,2004.0,"Fiction, Science Fiction, Fantasy",2
+413,Cosmos,Carl Sagan,4.4,1980.0,"Science, Nonfiction, Astronomy",2
+414,The Girl Who Was Taken,Charlie Donlea,4.19,2017.0,"Thriller, Mystery, Fiction",2
+415,Silent Spring,Rachel Carson,4.05,1962.0,"Nonfiction, Science, Environment",2
+416,His Dark Materials (His Dark Materials #1-3),Philip Pullman,4.29,2000.0,"Fantasy, Fiction, Young Adult",2
+417,The Once and Future King,T.H. White,4.07,1958.0,"Fantasy, Classics, Fiction",2
+418,"Heidi (Heidi, #1-2)",Johanna Spyri,4.04,1880.0,"Classics, Fiction, Childrens",2
+419,Head Like a Hole,Andrew Van Wey,3.86,2022.0,"Horror, Fiction, Mystery",2
+420,Ask for Andrea,Noelle W. Ihli,4.09,2022.0,"Thriller, Horror, Mystery Thriller",2
+421,The Night Circus,Erin Morgenstern,4.01,2011.0,"Fantasy, Fiction, Romance",2
+422,Girl with a Pearl Earring,Tracy Chevalier,3.93,1999.0,"Historical Fiction, Fiction, Classics",2
+423,All the Light We Cannot See,Anthony Doerr,4.31,2014.0,"Historical Fiction, Fiction, Historical",2
+424,American Psycho,Bret Easton Ellis,3.81,1991.0,"Fiction, Horror, Classics",2
+425,The Shards,Bret Easton Ellis,4.0,2023.0,"Fiction, Thriller, Horror",2
+426,The Glass Menagerie,Tennessee Williams,3.73,1945.0,"Plays, Classics, Fiction",2
+427,Waiting for Godot,Samuel Beckett,3.84,1952.0,"Plays, Classics, Fiction",2
+428,Narrative of the Life of Frederick Douglass,Frederick Douglass,4.12,1845.0,"Nonfiction, History, Classics",0
+429,Black Beauty,Anna Sewell,4.0,1877.0,"Classics, Fiction, Childrens",2
+430,The Idiot,Fyodor Dostoevsky,4.21,1869.0,"Fiction, Russia, Russian Literature",2
+431,Native Son,Richard Wright,4.03,1940.0,"Fiction, Classics, Historical Fiction",2
+432,"Twenty Thousand Leagues Under the Sea (Captain Nemo, #2)",Jules Verne,3.89,1869.0,"Classics, Science Fiction, Fiction",2
+433,Old Yeller,Fred Gipson,4.1,1958.0,"Classics, Fiction, Young Adult",2
+434,Sharp Objects,Gillian Flynn,4.01,2006.0,"Mystery, Thriller, Fiction",2
+435,"Viciously Yours (Fae Kings of Eden, #1)",Jamie Applegate Hunter,3.6,2024.0,"Fantasy, Romance, Fae",2
+436,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,Steven D. Levitt,4.01,2005.0,"Nonfiction, Economics, Business",0
+437,"Inara (Godfrey Davis, #3)",A.R. Merrydew,4.36,2024.0,"Novels, Space, Science Fiction Fantasy",2
+438,Chasing the Devil: The Search for Africa's Fighting Spirit,Tim Butcher,4.13,2010.0,"Africa, Travel, Nonfiction",2
+439,Murder on Family Grounds (Mary Wandwalker #3),Susan  Rowland,4.3,2024.0,"Mystery, Mystery Thriller, Drama",2
+440,Mrs. Dalloway,Virginia Woolf,3.79,1925.0,"Fiction, Classics, Literature",2
+441,"Inkheart (Inkworld, #1)",Cornelia Funke,3.92,2003.0,"Fantasy, Young Adult, Fiction",2
+442,The War of the Worlds,H.G. Wells,3.83,1898.0,"Science Fiction, Fiction, Classics",2
+443,"Magical Midlife Awakening (Leveling Up, #9)",K.F. Breene,4.62,2024.0,"Fantasy, Magic, Fiction",2
+444,The Complete Poems of Emily Dickinson,Emily Dickinson,4.28,1890.0,"Poetry, Classics, Fiction",2
+445,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg,4.16,1967.0,"Fiction, Childrens, Middle Grade",2
+446,"The Oldest Dance (Wisdom Revolution, #2)",Misba,4.71,2021.0,"Fantasy, Science Fiction, Science Fiction Fantasy",2
+447,"The High Auction (Wisdom Revolution, #1)",Misba,4.7,2021.0,"Fantasy, Science Fiction, Science Fiction Fantasy",2
+448,The Sound and the Fury,William Faulkner,3.86,1929.0,"Fiction, Literature, Classics",2
+449,Life Application Study Bible: NIV,Anonymous,4.65,1988.0,"Christian, Religion, Nonfiction",2
+450,Mansfield Park,Jane Austen,3.86,1814.0,"Fiction, Classics, Historical Fiction",2
+451,"Little House on the Prairie (Little House, #3)",Laura Ingalls Wilder,4.21,1935.0,"Classics, Historical Fiction, Childrens",2
+452,The Jungle Books,Rudyard Kipling,4.01,1895.0,"Classics, Fiction, Childrens",2
+453,"Stargirl (Stargirl, #1)",Jerry Spinelli,3.77,2000.0,"Young Adult, Fiction, Contemporary",2
+454,The Diving Bell and the Butterfly: A Memoir of Life in Death,Jean-Dominique Bauby,3.98,1997.0,"Nonfiction, Memoir, Biography",0
+455,The Epic of Gilgamesh,Anonymous,3.74,1201.0,"Poetry, Fiction, Mythology",2
+456,The Bluest Eye,Toni Morrison,4.12,1970.0,"Fiction, Classics, Historical Fiction",2
+457,My Ántonia,Willa Cather,3.84,1918.0,"Fiction, Historical Fiction, Classics",2
+458,"Pippi Longstocking (Pippi Långstrump, #1)",Astrid Lindgren,4.15,1945.0,"Classics, Childrens, Fiction",2
+459,Anthem,Ayn Rand,3.61,1938.0,"Fiction, Classics, Dystopia",2
+460,The Remains of the Day,Kazuo Ishiguro,4.14,1989.0,"Fiction, Historical Fiction, Classics",2
+461,The Art of Happiness,Dalai Lama XIV,4.17,1998.0,"Nonfiction, Philosophy, Spirituality",2
+462,"Howl’s Moving Castle (Howl’s Moving Castle, #1)",Diana Wynne Jones,4.29,1986.0,"Fantasy, Young Adult, Fiction",2
+463,The Secret History,Donna Tartt,4.16,1992.0,"Fiction, Mystery, Classics",2
+464,The Thirteenth Tale,Diane Setterfield,3.98,2006.0,"Fiction, Mystery, Historical Fiction",2
+465,"A Time to Kill (Jake Brigance, #1)",John Grisham,4.12,1989.0,"Fiction, Thriller, Mystery",2
+466,"Captive in the Dark (The Dark Duet, #1)",C.J. Roberts,3.94,2011.0,"Dark, Romance, BDSM",2
+467,White Fang,Jack London,4.03,1906.0,"Fiction, Classics, Adventure",2
+468,The Polymorph,Max Nowaz,4.28,2023.0,"Science Fiction, Fiction, Space",2
+469,Breakfast at Tiffany’s and Three Stories,Truman Capote,3.84,1958.0,"Fiction, Short Stories, Classics",2
+470,The Heart Is a Lonely Hunter,Carson McCullers,3.99,1940.0,"Fiction, Classics, Literature",2
+471,The Drowning Woman,Robyn Harding,4.05,2023.0,"Thriller, Mystery, Mystery Thriller",2
+472,"The Voyage of the Dawn Treader (Chronicles of Narnia, #3)",C.S. Lewis,4.09,1952.0,"Fantasy, Fiction, Young Adult",2
+473,Around the World in Eighty Days,Jules Verne,3.95,1872.0,"Classics, Fiction, Adventure",2
+474,"Tears of Tess (Monsters in the Dark, #1)",Pepper Winters,3.99,2013.0,"Dark, Dark Romance, Romance",2
+475,The Left Hand of Darkness,Ursula K. Le Guin,4.1,1969.0,"Science Fiction, Fiction, Fantasy",2
+476,"The Girl in the Eagle's Talons (Millennium, #7)",Karin Smirnoff,3.42,2022.0,"Thriller, Fiction, Mystery",2
+477,"Consequences (Consequences, #1)",Aleatha Romig,3.92,2011.0,"Dark, Romance, Dark Romance",2
+478,"The Cheat Code (Wisdom Revolution, #3)",Misba,4.74,2023.0,"Fantasy, Science Fiction, Science Fiction Fantasy",2
+479,Still Alice,Lisa Genova,4.32,2007.0,"Fiction, Contemporary, Psychology",2
+480,She’s Come Undone,Wally Lamb,3.91,1992.0,"Fiction, Contemporary, Chick Lit",2
+481,"Souls Unfractured (Hades Hangmen, #3)",Tillie Cole,4.41,2015.0,"Dark, Romance, Dark Romance",2
+482,11/22/63,Stephen        King,4.34,2011.0,"Fiction, Historical Fiction, Science Fiction",2
+483,Northanger Abbey,Jane Austen,3.85,1817.0,"Classics, Fiction, Gothic",2
+484,Marley and Me: Life and Love With the World’s Worst Dog,John Grogan,4.14,2005.0,"Nonfiction, Animals, Memoir",0
+485,"Killing Sarai (In the Company of Killers, #1)",J.A. Redmerski,4.08,2013.0,"Romance, Dark, New Adult",2
+486,King Lear,William Shakespeare,3.91,1605.0,"Plays, Fiction, Classics",2
+487,The Martian,Andy Weir,4.42,2011.0,"Science Fiction, Fiction, Audiobook",2
+488,"I, Robot (Robot, #0.1)",Isaac Asimov,4.21,1950.0,"Science Fiction, Fiction, Classics",2
+489,"Corrupt (Devil's Night, #1)",Penelope Douglas,3.79,2015.0,"Dark Romance, Dark, Enemies To Lovers",2
+490,The Rise and Fall of the Third Reich: A History of Nazi Germany,William L. Shirer,4.22,1960.0,"History, Nonfiction, War",0
+491,Houdini Heart,Ki Longfellow,3.84,2011.0,"Horror, Fantasy, Mystery",2
+492,Travels with Charley: In Search of America,John Steinbeck,4.08,1961.0,"Nonfiction, Travel, Classics",2
+493,Different Seasons,Stephen        King,4.36,1982.0,"Horror, Fiction, Short Stories",2
+494,"A Wizard of Earthsea (Earthsea Cycle, #1)",Ursula K. Le Guin,4.01,1968.0,"Fantasy, Fiction, Young Adult",2
+495,Middlemarch,George Eliot,4.03,1872.0,"Classics, Fiction, Historical Fiction",2
+496,"Truth (Consequences, #2)",Aleatha Romig,4.34,2012.0,"Dark, Romance, Suspense",2
+497,The Wind-Up Bird Chronicle,Haruki Murakami,4.14,1994.0,"Fiction, Magical Realism, Fantasy",2
+498,Keep It in the Family,John Marrs,4.08,2022.0,"Thriller, Mystery, Mystery Thriller",2
+499,The Hunchback of Notre-Dame,Victor Hugo,4.02,1831.0,"Fiction, Classics, Historical Fiction",2
+500,Sarah's Key,Tatiana de Rosnay,4.18,2006.0,"Historical Fiction, Fiction, Holocaust",2
+501,The Omnivore's Dilemma: A Natural History of Four Meals,Michael Pollan,4.19,2006.0,"Nonfiction, Food, Science",0
+502,"The Amber Spyglass (His Dark Materials, #3)",Philip Pullman,4.1,2000.0,"Fantasy, Young Adult, Fiction",2
+503,World War Z: An Oral History of the Zombie War,Max Brooks,4.02,2006.0,"Horror, Fiction, Zombies",2
+504,Mistress Suffragette,Diana   Forbes,4.29,2017.0,"Historical Fiction, Fiction, New Adult",2
+505,A Portrait of the Artist as a Young Man,James Joyce,3.64,1916.0,"Classics, Fiction, Literature",2
+506,I Know This Much Is True,Wally Lamb,4.21,1998.0,"Fiction, Contemporary, Literary Fiction",2
+507,Fast Food Nation: The Dark Side of the All-American Meal,Eric Schlosser,3.75,2001.0,"Food, Sociology, Politics",0
+508,"Deeper Than the Dead (Vera Boyett, #1)",Debra Webb,4.05,2024.0,"Mystery, Thriller, Fiction",2
+509,Breakfast of Champions,Kurt Vonnegut Jr.,4.06,1973.0,"Fiction, Classics, Science Fiction",2
+510,"Notes from Underground, White Nights, The Dream of a Ridiculous Man, and Selections from The House of the Dead",Fyodor Dostoevsky,4.19,1864.0,"Classics, Fiction, Russia",2
+511,Harper Lee's To Kill a Mockingbird,Harold Bloom,4.26,1960.0,"Fiction, Historical Fiction, School",2
+512,Starship Troopers,Robert A. Heinlein,4.01,1959.0,"Science Fiction, Fiction, Military Fiction",2
+513,A Winter Grave,Peter  May,4.07,2023.0,"Crime, Mystery, Thriller",2
+514,The Power of Myth,Joseph Campbell,4.26,1988.0,"Nonfiction, Mythology, Philosophy",2
+515,"It Ain't Me, Babe (Hades Hangmen, #1)",Tillie Cole,4.04,2014.0,"Romance, Dark Romance, Dark",2
+516,Paper Towns,John Green,3.7,2008.0,"Young Adult, Fiction, Contemporary",2
+517,Veronika Decides to Die,Paulo Coelho,3.73,1998.0,"Fiction, Contemporary, Philosophy",2
+518,"The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",Erik Larson,4.0,2003.0,"Nonfiction, History, True Crime",0
+519,"Bridget Jones’s Diary (Bridget Jones, #1)",Helen Fielding,3.81,1996.0,"Fiction, Chick Lit, Romance",2
+520,The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman,4.28,1990.0,"Nonfiction, Self Help, Relationships",2
+521,"The Magician’s Nephew (Chronicles of Narnia, #6)",C.S. Lewis,4.05,1955.0,"Fantasy, Fiction, Young Adult",2
+522,Twenty Years Later,Charlie Donlea,4.2,2021.0,"Thriller, Mystery, Fiction",2
+523,Snow Flower and the Secret Fan,Lisa See,4.09,2005.0,"Historical Fiction, Fiction, China",2
+524,"Ishmael (Ishmael, #1)",Daniel Quinn,4.01,1992.0,"Fiction, Philosophy, Spirituality",2
+525,The Selfish Gene,Richard Dawkins,4.16,1976.0,"Science, Nonfiction, Biology",2
+526,White Oleander,Janet Fitch,4.0,1999.0,"Fiction, Coming Of Age, Contemporary",2
+527,The Very Secret Society of Irregular Witches,Sangu Mandanna,4.07,2022.0,"Fantasy, Romance, Fiction",2
+528,The Marriage Portrait,Maggie O'Farrell,4.01,2022.0,"Historical Fiction, Fiction, Historical",2
+529,The Graveyard Book,Neil Gaiman,4.16,2008.0,"Fantasy, Young Adult, Fiction",2
+530,"Trainspotting (Mark Renton, #2)",Irvine Welsh,4.11,1993.0,"Fiction, Contemporary, Classics",2
+531,"A Clash of Kings  (A Song of Ice and Fire, #2)",George R.R. Martin,4.42,1998.0,"Fantasy, Fiction, Epic Fantasy",2
+532,The Purpose Driven Life: What on Earth Am I Here for?,Rick Warren,3.98,2002.0,"Christian, Nonfiction, Religion",2
+533,The Prince and the Pauper,Mark Twain,3.87,1881.0,"Classics, Fiction, Historical Fiction",2
+535,Outliers: The Story of Success,Malcolm Gladwell,4.19,2008.0,"Nonfiction, Psychology, Business",2
+536,Salvager: A Military Science Fiction Adventure,Scott Moon,4.21,2024.0,"Science Fiction, Young Adult, Space Opera",2
+537,The Autobiography of Benjamin Franklin,Benjamin Franklin,3.86,1791.0,"Biography, History, Nonfiction",0
+538,"Artemis Fowl (Artemis Fowl, #1)",Eoin Colfer,3.86,2001.0,"Fantasy, Young Adult, Fiction",2
+539,The Witch of Blackbird Pond,Elizabeth George Speare,4.02,1958.0,"Historical Fiction, Young Adult, Fiction",2
+540,A Room of One’s Own,Virginia Woolf,4.22,1929.0,"Classics, Nonfiction, Feminism",2
+541,The Amazing Adventures of Kavalier & Clay,Michael Chabon,4.18,2000.0,"Fiction, Historical Fiction, Novels",2
+542,The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,4.15,1997.0,"Self Help, Nonfiction, Spirituality",2
+543,The Prince of Tides,Pat Conroy,4.26,1986.0,"Fiction, Classics, Romance",2
+544,The Merchant of Venice,William Shakespeare,3.78,1596.0,"Classics, Plays, Fiction",2
+545,The Yellow Wallpaper and Other Stories,Charlotte Perkins Gilman,4.08,1892.0,"Short Stories, Fiction, Horror",2
+546,"A Dead and Stormy Night (Nevermore Bookshop Mysteries, #1)",Steffanie Holmes,3.9,2019.0,"Fantasy, Romance, Reverse Harem",2
+547,"The Hunger Games Trilogy Boxset (The Hunger Games, #1-3)",Suzanne Collins,4.49,2010.0,"Young Adult, Fiction, Fantasy",2
+548,Sapiens: A Brief History of Humankind,Yuval Noah Harari,4.35,2011.0,"Nonfiction, History, Science",0
+549,The Witches,Roald Dahl,4.18,1981.0,"Fantasy, Childrens, Fiction",2
+550,Hello Beautiful,Ann Napolitano,4.14,2023.0,"Fiction, Historical Fiction, Audiobook",2
+551,Lady Chatterley’s Lover,D.H. Lawrence,3.5,1928.0,"Fiction, Romance, Classics",2
+552,Infidel,Ayaan Hirsi Ali,4.2,2006.0,"Nonfiction, Memoir, Biography",0
+553,Midnight in the Garden of Good and Evil,John Berendt,3.92,1994.0,"Nonfiction, True Crime, Mystery",2
+554,"The Eye of the World (The Wheel of Time, #1)",Robert Jordan,4.19,1990.0,"Fantasy, Fiction, Epic Fantasy",2
+555,"On Her Watch (Bree Taggert, #8)",Melinda Leigh,4.51,2024.0,"Mystery, Fiction, Crime",2
+556,Like Water for Chocolate,Laura Esquivel,3.95,1989.0,"Fiction, Magical Realism, Romance",2
+557,Ivanhoe,Walter Scott,3.76,1819.0,"Classics, Fiction, Historical Fiction",2
+558,To the Lighthouse,Virginia Woolf,3.8,1927.0,"Classics, Fiction, Literature",2
+559,Sybil: The Classic True Story of a Woman Possessed by Sixteen Personalities,Flora Rheta Schreiber,3.99,1973.0,"Nonfiction, Psychology, Biography",0
+560,The Memory Keeper's Daughter,Kim Edwards,3.7,2005.0,"Fiction, Contemporary, Historical Fiction",2
+561,The BFG,Roald Dahl,4.23,1982.0,"Fantasy, Childrens, Fiction",2
+562,"Amelia Bedelia  (Amelia Bedelia, #1)",Peggy Parish,4.19,1963.0,"Childrens, Picture Books, Fiction",2
+563,صالة أورفانيللي,أشرف العشماوي,4.13,2021.0,"Fiction, Novels, Audiobook",2
+564,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,4.01,2002.0,"Nonfiction, Business, Psychology",2
+565,God Is Not Great: How Religion Poisons Everything,Christopher Hitchens,3.96,2007.0,"Nonfiction, Religion, Philosophy",2
+566,Cold Mountain,Charles Frazier,3.89,1997.0,"Historical Fiction, Fiction, Historical",2
+567,Marked by Magic (Tracking Trouble #1),Lindsay Buroker,4.32,2023.0,"Fantasy, Urban Fantasy, Magic",2
+568,We Need to Talk About Kevin,Lionel Shriver,4.08,2003.0,"Fiction, Thriller, Contemporary",2
+569,On the Beach,Nevil Shute,3.97,1957.0,"Fiction, Science Fiction, Classics",2
+570,The Stinky Cheese Man and Other Fairly Stupid Tales,Jon Scieszka,4.2,1992.0,"Picture Books, Childrens, Humor",2
+571,"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,4.25,1988.0,"Horror, Fiction, Thriller",2
+572,"The Mercy of Gods (The Captive’s War, #1)",James S.A. Corey,4.18,2024.0,"Science Fiction, Fiction, Space Opera",2
+573,To Live and Drink in L.A.,Ben Peller,3.98,2011.0,"Memoir, Coming Of Age, Own",2
+574,"Lucky Son of a Gun (Demon Accords, #19)",John Conroe,4.46,2023.0,"Epic Fantasy, Science Fiction Fantasy, Fantasy",2
+575,"The Killer Angels (The Civil War Trilogy, #2)",Michael Shaara,4.33,1974.0,"Historical Fiction, Fiction, Civil War",2
+576,"My Side of the Mountain (Mountain, #1)",Jean Craighead George,4.1,1959.0,"Fiction, Young Adult, Classics",2
+577,"Guards! Guards! (Discworld, #8; City Watch, #1)",Terry Pratchett,4.34,1989.0,"Fantasy, Fiction, Humor",2
+578,The Warm Hands of Ghosts,Katherine Arden,3.99,2024.0,"Historical Fiction, Fantasy, Fiction",2
+579,Wild Swans: Three Daughters of China,Jung Chang,4.29,1991.0,"Nonfiction, History, China",0
+580,"The Art of Avoiding Your Alpha (Wildwood, #2)",Lola Glass,3.92,2024.0,"Fantasy, Science Fiction Fantasy, Novels",2
+581,"Code Yellow in Gretna Green (Midlife Recorder, #5)",Linzi Day,4.62,2024.0,"Fantasy, Science Fiction Fantasy, Magic",2
+582,House of Vampires and Flame (Shades of Ruin and Magic #1),Meg Xuemei X,4.13,2023.0,"Fantasy, Vampires, Magic",2
+583,"The Archon of Peace (Sovereign, #1)",Juddy Anderson C. Punzalan,4.59,2020.0,"Fantasy, High Fantasy, Mythology",2
+584,"The Art of Avoiding Your Werewolf (Wildwood, #1)",Lola Glass,3.87,2024.0,"Fantasy, Romance, Paranormal",2
+585,Franny and Zooey,J.D. Salinger,3.96,1957.0,"Fiction, Short Stories, Literature",2
+586,"The Adventures of Sherlock Holmes (Sherlock Holmes, #3)",Arthur Conan Doyle,4.3,1892.0,"Mystery, Fiction, Short Stories",2
+587,Victor's Blessing,Barbara Sontheimer,4.34,2022.0,"Novels, Fiction, Historical",2
+588,"Heretical Fishing (Heretical Fishing, #1)",Haylock Jobson,4.33,2024.0,"Fantasy, Fiction, Science Fiction Fantasy",2
+589,The Wasp Factory,Iain Banks,3.76,1984.0,"Fiction, Horror, Thriller",2
+590,The Silmarillion,J.R.R. Tolkien,4.02,1977.0,"Fantasy, Fiction, High Fantasy",2
+591,Guess How Much I Love You,Sam McBratney,4.39,1988.0,"Picture Books, Childrens, Fiction",2
+592,"World Without End (Kingsbridge, #2)",Ken Follett,4.32,2007.0,"Historical Fiction, Fiction, Historical",2
+593,"A Cursed Son (Remnants of the Fallen Kingdom, #1)",Day Leitao,4.02,2024.0,"Fantasy, Romantasy, Romance",2
+594,Saint Richard Parker,Merlin Franco,4.31,2023.0,"Humor, Contemporary, Comedy",2
+595,"The Other Boleyn Girl (The Plantagenet and Tudor Novels, #9)",Philippa Gregory,4.09,2001.0,"Historical Fiction, Fiction, Historical",2
+596,"A Storm of Swords (A Song of Ice and Fire, #3)",George R.R. Martin,4.55,2000.0,"Fantasy, Fiction, Epic Fantasy",2
+597,"2001: A Space Odyssey (Space Odyssey, #1)",Arthur C. Clarke,4.17,1968.0,"Science Fiction, Fiction, Classics",2
+598,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Judith Viorst,4.24,1972.0,"Picture Books, Childrens, Fiction",2
+599,"The Lies of Vampires and Slayers (Magic on Main Street, #1)",K.M. Shea,4.37,2023.0,"Fantasy, Urban Fantasy, Vampires",2
+600,Zodiac Explained: Understanding the Innate Motives Behind Our Actions,Alb Imeri,4.6,2020.0,"Astrology, True Crime, Nonfiction",2
+601,On Writing: A Memoir of the Craft,Stephen        King,4.34,2000.0,"Nonfiction, Writing, Memoir",0
+603,"God Is the Cure, Love Is the Answer: A Memoir",Aimee Cabo Nikolov,4.3,2018.0,"Nonfiction, Contemporary, True Story",2
+604,"Accidental Mystic (Midlife Melody, #1)",Phoebe Ravencraft,4.2,2021.0,"Science Fiction Fantasy, Magic, Fantasy",2
+605,"The Eden Paradox (Eden Paradox, #1)",Barry Kirwan,4.22,2011.0,"Science Fiction, Fiction, Space Opera",2
+606,Illusions: The Adventures of a Reluctant Messiah,Richard Bach,4.15,1977.0,"Fiction, Philosophy, Spirituality",2
+607,Helter Skelter: The True Story of the Manson Murders,Vincent Bugliosi,4.06,1974.0,"True Crime, Nonfiction, Crime",2
+608,Thus Spoke Zarathustra,Friedrich Nietzsche,4.07,1883.0,"Philosophy, Classics, Nonfiction",2
+609,"Miss Peregrine's Home for Peculiar Children (Miss Peregrine's Peculiar Children, #1)",Ransom Riggs,3.92,2011.0,"Fantasy, Young Adult, Fiction",2
+610,Everything is Illuminated,Jonathan Safran Foer,3.89,2002.0,"Fiction, Historical Fiction, Contemporary",2
+611,The Satanic Verses,Salman Rushdie,3.71,1988.0,"Fiction, Classics, Magical Realism",2
+612,"Desert Outcast (Sovereign, #0.5)",Juddy Anderson C. Punzalan,4.64,2021.0,"Fantasy, Fiction, Book details & editions",2
+613,"Why They Stay: Sex Scandals, Deals, and Hidden Agendas of Eight Political Wives",Anne  Michaud,4.29,2021.0,"Nonfiction, Politics, History",0
+615,Cyrano de Bergerac,Edmond Rostand,4.06,1897.0,"Plays, Fiction, Drama",2
+616,The White Tiger,Aravind Adiga,3.77,2008.0,"Fiction, India, Contemporary",2
+617,Snow Falling on Cedars,David Guterson,3.86,1994.0,"Fiction, Historical Fiction, Mystery",2
+618,Quiet: The Power of Introverts in a World That Can't Stop Talking,Susan Cain,4.08,2012.0,"Nonfiction, Psychology, Self Help",2
+619,"The Maze Runner (The Maze Runner, #1)",James Dashner,4.05,2009.0,"Young Adult, Dystopia, Science Fiction",2
+620,Doctor Zhivago,Boris Pasternak,4.01,1957.0,"Fiction, Historical Fiction, Russia",2
+621,Don't Sweat the Small Stuff ... and It's All Small Stuff: Simple Ways to Keep the Little Things From Taking Over Your Life,Richard Carlson,4.0,1997.0,"Self Help, Nonfiction, Psychology",2
+622,Bel Canto,Ann Patchett,3.94,2001.0,"Fiction, Contemporary, Literary Fiction",2
+623,Survival in Auschwitz,Primo Levi,4.34,1947.0,"Nonfiction, History, Holocaust",0
+624,The English Patient,Michael Ondaatje,3.86,1992.0,"Fiction, Historical Fiction, Classics",2
+625,Into Thin Air: A Personal Account of the Mt. Everest Disaster,Jon Krakauer,4.25,1997.0,"Nonfiction, Adventure, Memoir",0
+626,The Lottery and Other Stories,Shirley Jackson,4.02,1949.0,"Short Stories, Horror, Fiction",2
+627,Isabella Warrior Queen,Michael G. Kramer,4.3,2023.0,"History, Nonfiction, Biography",0
+628,The Federalist Papers,Alexander Hamilton,4.1,1788.0,"History, Politics, Nonfiction",0
+629,Midnight’s Children,Salman Rushdie,3.98,1981.0,"Fiction, Magical Realism, Classics",2
+630,The Wrong Daughter,Dandy Smith,4.03,2024.0,"Thriller, Mystery, Fiction",2
+631,Silas Marner,George Eliot,3.69,1861.0,"Classics, Fiction, Literature",2
+632,Pet Sematary,Stephen        King,4.08,1983.0,"Horror, Fiction, Thriller",2
+633,House of Leaves,Mark Z. Danielewski,4.09,2000.0,"Horror, Fiction, Fantasy",2
+634,The Erkeley Shadows,Michael Wyndham Thomas,4.31,2023.0,"Thriller, Novels, Fiction",2
+635,"Death Leaves a Shadow (Marlowe Black Mystery, #2)",Gabriel F.W. Koch,4.3,2020.0,"Novels, Fiction, Drama",2
+636,The House on Mango Street,Sandra Cisneros,3.69,1984.0,"Fiction, Classics, Young Adult",2
+637,Journey to the Center of the Earth,Jules Verne,3.85,1864.0,"Classics, Science Fiction, Fiction",2
+638,Four Great Tragedies: Hamlet / Othello / King Lear / Macbeth,William Shakespeare,4.42,1606.0,"Classics, Plays, Fiction",2
+639,"The Raven Boys (The Raven Cycle, #1)",Maggie Stiefvater,4.05,2012.0,"Fantasy, Young Adult, Paranormal",2
+640,"The Lost Hero (The Heroes of Olympus, #1)",Rick Riordan,4.3,2010.0,"Fantasy, Mythology, Young Adult",2
+641,The Brief Wondrous Life of Oscar Wao,Junot Díaz,3.89,2007.0,"Fiction, Magical Realism, Literary Fiction",2
+642,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,3.96,2005.0,"Nonfiction, Psychology, Business",2
+643,Requiem for a Dream,Hubert Selby Jr.,4.11,1978.0,"Fiction, Classics, Thriller",2
+644,"The Tales of Beedle the Bard (Hogwarts Library, #3)",J.K. Rowling,4.04,2008.0,"Fantasy, Fiction, Young Adult",2
+645,"Ready Player One (Ready Player One, #1)",Ernest Cline,4.23,2011.0,"Science Fiction, Fiction, Young Adult",2
+646,Dandelion Wine,Ray Bradbury,4.09,1957.0,"Fiction, Classics, Science Fiction",2
+647,گم شده ای در مه,سید مرتضی مصطفوی,3.81,2017.0,"Fiction, Philosophy, Spirituality",2
+648,The Scarlet Pimpernel,Emmuska Orczy,4.07,1905.0,"Classics, Historical Fiction, Fiction",2
+649,The Historian,Elizabeth Kostova,3.8,2005.0,"Fiction, Historical Fiction, Fantasy",2
+650,"Passions in Death (In Death, #59)",J.D. Robb,4.3,2024.0,"Mystery, Crime, Romance",2
+651,The Complete Stories and Poems,Edgar Allan Poe,4.4,1849.0,"Classics, Poetry, Horror",2
+652,"Worm Holes (Quantum Roots, #2)",Kyle Keyes,4.34,2017.0,"Fiction, Young Adult, Adventure",2
+653,The V Girl: A Coming of Age Story,Mya Robarts,3.97,2015.0,"Romance, Coming Of Age, Young Adult",2
+654,"The Road Less Traveled: A New Psychology of Love, Traditional Values and Spiritual Growth",M. Scott Peck,4.08,1978.0,"Psychology, Nonfiction, Self Help",2
+655,Hiroshima,John Hersey,4.04,1946.0,"History, Nonfiction, War",0
+656,"Book of Night (Book of Night, #1)",Holly Black,3.54,2022.0,"Fantasy, Urban Fantasy, Fiction",2
+657,Shakespeare's Sonnets,William Shakespeare,4.25,1609.0,"Poetry, Classics, Fiction",2
+658,"Prince Caspian (Chronicles of Narnia, #2)",C.S. Lewis,3.98,1951.0,"Fantasy, Fiction, Classics",2
+659,"Angel of Vengeance (Pendergast, #22)",Douglas Preston,4.31,2024.0,"Thriller, Mystery, Fiction",2
+660,"Echo Road (Mercy Kilpatrick, #9; Bree Taggert, #9)",Kendra Elliot,4.54,2024.0,"Mystery, Thriller, Fiction",2
+661,"Finding Hope in the Darkness of Grief: Spiritual Insights Expressed Through Art, Poetry and Prose",Diamante Lavendar,4.3,2018.0,"Contemporary, Poetry, Fiction",2
+662,The Goldfinch,Donna Tartt,3.96,2013.0,"Fiction, Contemporary, Literary Fiction",2
+663,Carrie,Stephen        King,3.99,1974.0,"Horror, Fiction, Thriller",2
+664,Dogs vs Bears,Austin    Davis,4.31,2024.0,"Novels, Fiction, Adventure",2
+665,"The Celestine Prophecy (Celestine Prophecy, #1)",James Redfield,3.72,1993.0,"Fiction, Spirituality, Philosophy",2
+666,The Mayor of Maxwell Street,Avery Cunningham,3.55,2024.0,"Historical Fiction, Fiction, Romance",2
+667,The Total Money Makeover: A Proven Plan for Financial Fitness,Dave Ramsey,4.22,1994.0,"Finance, Nonfiction, Self Help",2
+668,"People in Glass Houses (Ghost Hunters, #16)",Jayne Castle,4.4,2024.0,"Fantasy, Romance, Science Fiction Fantasy",2
+669,The Second Sex,Simone de Beauvoir,4.18,1949.0,"Feminism, Nonfiction, Philosophy",2
+670,A Streetcar Named Desire,Tennessee Williams,3.98,1947.0,"Plays, Classics, Fiction",2
+671,"Perron Manor (Haunted, #1)",Lee Mountford,4.11,2020.0,"Horror, Paranormal, Thriller",2
+672,"The Horse and His Boy (Chronicles of Narnia, #5)",C.S. Lewis,3.91,1954.0,"Fantasy, Fiction, Young Adult",2
+673,"Maus I: A Survivor's Tale: My Father Bleeds History (Maus, #1)",Art Spiegelman,4.39,1986.0,"Graphic Novels, Comics, History",0
+674,The French Lieutenant’s Woman,John Fowles,3.88,1969.0,"Fiction, Classics, Historical Fiction",2
+675,"Foundation (Foundation, #1)",Isaac Asimov,4.17,1951.0,"Science Fiction, Fiction, Science Fiction Fantasy",2
+676,"The Subtle Knife (His Dark Materials, #2)",Philip Pullman,4.15,1997.0,"Fantasy, Young Adult, Fiction",2
+677,All the Murmuring Bones,A.G. Slatter,3.92,2021.0,"Fantasy, Horror, Gothic",2
+678,Invisible Monsters,Chuck Palahniuk,4.0,1999.0,"Fiction, Contemporary, Thriller",2
+679,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,Donald Miller,3.91,2003.0,"Nonfiction, Christian, Religion",2
+680,A Room with a View,E.M. Forster,3.9,1908.0,"Classics, Fiction, Romance",2
+681,"Fair Market Value (The Body Shop, #1)",Hailey Edwards,4.36,2024.0,"Fantasy, Urban Fantasy, Science Fiction Fantasy",2
+682,"One Dark Window (The Shepherd King, #1)",Rachel Gillig,4.29,2022.0,"Fantasy, Romance, Romantasy",2
+683,The Hollow Places,T. Kingfisher,3.79,2020.0,"Horror, Fantasy, Fiction",2
+684,"Me Before You (Me Before You, #1)",Jojo Moyes,4.26,2012.0,"Fiction, Contemporary, Chick Lit",2
+685,Redeeming Love,Francine  Rivers,4.51,1991.0,"Romance, Christian, Christian Fiction",2
+686,The Ball at Versailles,Danielle Steel,4.04,2023.0,"Romance, Historical Fiction, Fiction",2
+687,"The Watchers (The Watchers, #1)",A.M. Shine,3.9,2021.0,"Horror, Fantasy, Fiction",2
+688,Hart's Ridge (Hart's Ridge #1),Kay Bratt,4.38,2022.0,"Mystery, Crime, Fiction",2
+689,Lies My Teacher Told Me: Everything Your American History Textbook Got Wrong,James W. Loewen,3.97,1995.0,"History, Nonfiction, Education",0
+690,Factotum,Charles Bukowski,3.92,1975.0,"Fiction, Classics, Novels",2
+691,"All Creatures Great and Small (All Creatures Great and Small, #1-2)",James Herriot,4.35,1972.0,"Nonfiction, Memoir, Animals",0
+692,The Salt Grows Heavy,Cassandra Khaw,3.56,2023.0,"Horror, Fantasy, Fiction",2
+693,"The Reaping (Steinbeck and Reed, #2)",Jess Lourey,4.12,2024.0,"Thriller, Mystery, Crime",2
+694,The Last Thing She Ever Did,Gregg Olsen,4.04,2018.0,"Mystery, Thriller, Fiction",2
+695,Peace Like a River,Leif Enger,4.02,2001.0,"Fiction, Historical Fiction, Book Club",2
+696,Morsels,Abe Moss,3.72,2024.0,"Horror, Thriller, Paranormal",2
+697,The Agony and the Ecstasy,Irving Stone,4.09,1958.0,"Historical Fiction, Fiction, Art",2
+698,"A MAN WHO SEEMED REAL: a story of love, lies, fear and kindness",Elizabeth Tebby Germaine,4.43,2023.0,"Drama, Novels, Contemporary",2
+699,"Glow (The Plated Prisoner, #4)",Raven Kennedy,4.14,2022.0,"Romance, Romantasy, Fantasy Romance",2
+700,I Have a Dream: Writings and Speeches That Changed the World,Martin Luther King Jr.,4.5,1987.0,"Nonfiction, History, Classics",0
+701,The Horse Whisperer,Nicholas Evans,3.85,1995.0,"Fiction, Romance, Animals",2
+702,"Dangerous Play (Kate Green, #2)",Elise Hart Kipness,4.26,2024.0,"Fiction, Suspense, Mystery",2
+703,Far From the Madding Crowd,Thomas Hardy,3.97,1874.0,"Classics, Fiction, Romance",2
+704,"Eats, Shoots & Leaves: The Zero Tolerance Approach to Punctuation",Lynne Truss,3.87,2003.0,"Nonfiction, Writing, Language",2
+705,Cackle,Rachel   Harrison,3.72,2021.0,"Horror, Fantasy, Witches",2
+706,I Capture the Castle,Dodie Smith,3.99,1948.0,"Classics, Fiction, Young Adult",2
+707,Shot Down: The True Story of Pilot Howard Snyder and the Crew of the B-17 Susan Ruth,Steve Snyder,4.21,2014.0,"History, Nonfiction, Military Fiction",0
+708,Nineteen Steps,Millie Bobby Brown,3.75,2023.0,"Historical Fiction, Fiction, Romance",2
+709,"The Big Sleep (Philip Marlowe, #1)",Raymond Chandler,3.95,1939.0,"Mystery, Fiction, Classics",2
+710,So Thirsty,Rachel   Harrison,3.52,2024.0,"Horror, Vampires, Fantasy",2
+711,Journey's Paradox (Journey Russo FBI Mystery #6),Mary Stone,4.53,2024.0,"Mystery, Mystery Thriller, Crime",2
+712,The Forgotten Palace,Alexandra Walsh,4.19,2023.0,"Historical Fiction, Fiction, Young Adult Romance",2
+713,Homo Cosmicus 2: Titan: A Science Fiction Novel,Todor Bombov,4.38,2022.0,"Drama, Novels, Contemporary",2
+714,Jitterbug Perfume,Tom Robbins,4.23,1984.0,"Fiction, Fantasy, Humor",2
+715,"Storm Front (The Dresden Files, #1)",Jim  Butcher,3.97,2000.0,"Fantasy, Urban Fantasy, Mystery",2
+716,Brainwalker,Robyn Mundell,4.31,2016.0,"Fantasy, Young Adult, Childrens",2
+717,"A Lady's Guide to Fortune-Hunting (A Lady's Guide, #1)",Sophie Irwin,3.92,2022.0,"Romance, Historical Fiction, Historical Romance",2
+718,A Storm of Infinite Beauty,Julianne MacLean,4.3,2023.0,"Fiction, Romance, Historical Fiction",2
+719,"Blood Orange (The Dracula Duet, #1)",Karina Halle,3.81,2022.0,"Fantasy, Vampires, Romance",2
+720,"Crowns of Ice (Fae of Snow & Ice, #4)",Krista Street,4.16,2023.0,"Fantasy, Magic, Science Fiction Fantasy",2
+721,"Cannery Row (Cannery Row, #1)",John Steinbeck,4.06,1943.0,"Fiction, Classics, Literature",2
+722,"Neuromancer (Sprawl, #1)",William Gibson,3.89,1984.0,"Science Fiction, Fiction, Cyberpunk",2
+723,Infinite Jest,David Foster Wallace,4.25,1996.0,"Fiction, Classics, Literature",2
+724,Exodus,Leon Uris,4.34,1958.0,"Historical Fiction, Fiction, Classics",2
+725,"The Alpha's Fated Encounter (Fated to Royalty, #1)",Roxie Ray,3.93,2022.0,"Fantasy, Paranormal, Novels",2
+726,"Haunting Adeline (Cat and Mouse, #1)",H.D. Carlton,3.96,2021.0,"Dark Romance, Dark, Thriller",2
+727,Dark Horizon the Witching Hour (The Children of the Gods #82),I.T. Lucas,4.49,2024.0,"Fiction, Science Fiction Fantasy, High Fantasy",2
+728,Fated to the Wolf Prince (The Hunted Omegas #1),April L. Moon,3.99,2024.0,"Fantasy, Romance, Magic",2
+729,"Counter Identity (Remmich/Miller, #2)",Karl Braungart,4.31,2021.0,"Drama, Contemporary, Novels",2
+730,The Three Witches and The Master,Max Nowaz,4.3,2024.0,"Fiction, Novels, Adventure",2
+731,"Two Twisted Crowns (The Shepherd King, #2)",Rachel Gillig,4.42,2023.0,"Fantasy, Romance, Romantasy",2
+732,Death Be Not Proud,John Gunther,3.86,1949.0,"Nonfiction, Classics, Memoir",0
+733,"Falling Down (The Boy in the Iron Box, #1)",Guillermo del Toro,3.59,2024.0,"Horror, Short Stories, Fiction",2
+734,"Flowers in the Attic (Dollanganger, #1)",V.C. Andrews,3.85,1979.0,"Fiction, Horror, Young Adult",2
+735,The Butcher of the Forest,Premee Mohamed,3.89,2024.0,"Fantasy, Horror, Novella",2
+736,Black Like Me,John Howard Griffin,4.11,1961.0,"Nonfiction, History, Memoir",0
+737,"Vampire Academy (Vampire Academy, #1)",Richelle Mead,4.11,2007.0,"Fantasy, Young Adult, Vampires",2
+738,The Twisted Ones,T. Kingfisher,3.64,2019.0,"Horror, Fantasy, Fiction",2
+739,’Salem’s Lot,Stephen        King,4.1,1975.0,"Horror, Fiction, Vampires",2
+740,"The Gunslinger (The Dark Tower, #1)",Stephen        King,3.92,1982.0,"Fantasy, Fiction, Horror",2
+741,"The Bad Beginning (A Series of Unfortunate Events, #1)",Lemony Snicket,4.02,1999.0,"Fiction, Fantasy, Young Adult",2
+742,"Eldest (The Inheritance Cycle, #2)",Christopher Paolini,4.04,2005.0,"Fantasy, Young Adult, Fiction",2
+743,The Age of Innocence,Edith Wharton,3.97,1920.0,"Classics, Fiction, Historical Fiction",2
+744,Brisingr (The Inheritance Cycle #3),Christopher Paolini,4.1,2008.0,"Fantasy, Young Adult, Fiction",2
+745,"Stripped Bare (Kate Fox, #1)",Shannon  Baker,4.04,2016.0,"Mystery, Thriller, Fiction",2
+746,Constant Companion: Your Practical Path to Real Interaction with God,Ami Loper,4.42,2024.0,"Contemporary, Novels, Drama",2
+747,The Invention of Hugo Cabret,Brian Selznick,4.22,2007.0,"Historical Fiction, Fiction, Young Adult",2
+748,The Seven Moons of Maali Almeida,Shehan Karunatilaka,3.91,2022.0,"Fiction, Historical Fiction, Fantasy",2
+749,Ethan Frome,Edith Wharton,3.45,1911.0,"Classics, Fiction, Romance",2
+750,Slewfoot: A Tale of Bewitchery,Brom,4.24,2021.0,"Horror, Fantasy, Historical Fiction",2
+751,Utopia,Thomas More,3.55,1516.0,"Classics, Philosophy, Fiction",2
+752,I'm Just Saying: A Guide to Maintaining Civil Discourse in an Increasingly Divided World,Milan Kordestani,4.26,2023.0,"Nonfiction, Communication, Self Help",2
+753,"Wicked Saints (Something Dark and Holy, #1)",Emily A. Duncan,3.56,2019.0,"Fantasy, Young Adult, Young Adult Fantasy",2
+754,The Shipping News,Annie Proulx,3.88,1993.0,"Fiction, Contemporary, Canada",2
+755,The Story of Ferdinand,Munro Leaf,4.37,1936.0,"Picture Books, Childrens, Classics",2
+756,"Twilight of Embers (Dragons of Ember Hollow, #1)",Tessa Hale,4.07,2024.0,"Fantasy, Reverse Harem, Dragons",2
+757,The Elegance of the Hedgehog,Muriel Barbery,3.8,2006.0,"Fiction, France, Philosophy",2
+758,"The Black Bird Oracle (All Souls, #5)",Deborah Harkness,4.08,2024.0,"Fantasy, Fiction, Witches",2
+759,Ankle Snatcher,Grady Hendrix,3.71,2023.0,"Horror, Short Stories, Audiobook",2
+760,"Skagboys (Mark Renton, #1)",Irvine Welsh,4.06,2012.0,"Fiction, Thriller, Contemporary",2
+761,"City of Ashes (The Mortal Instruments, #2)",Cassandra Clare,4.11,2008.0,"Fantasy, Young Adult, Romance",2
+762,Song of Solomon,Toni Morrison,4.15,1977.0,"Fiction, Classics, Historical Fiction",2
+763,Vanity Fair,William Makepeace Thackeray,3.81,1847.0,"Classics, Fiction, Historical Fiction",2
+764,Lunar Park,Bret Easton Ellis,3.65,2005.0,"Fiction, Horror, Thriller",2
+765,"Ruthless Fae (Zodiac Academy, #2)",Caroline Peckham,4.2,2019.0,"Fantasy, Romance, Romantasy",2
+766,The Swimmer,Loreth Anne White,4.14,2024.0,"Thriller, Mystery, Mystery Thriller",2
+767,"Lean In: Women, Work, and the Will to Lead",Sheryl Sandberg,3.95,2013.0,"Nonfiction, Business, Feminism",2
+768,"Descent (The Palladium Wars, #4)",Marko Kloos,4.32,2024.0,"Science Fiction, Space, Science Fiction Fantasy",2
+769,"P.S. I Love You (P.S. I Love You, #1)",Cecelia Ahern,4.04,2004.0,"Romance, Chick Lit, Fiction",2
+770,Scavenger Hunt,Chad Boudreaux,4.3,2023.0,"Mystery, Thriller, Drama",2
+771,I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban,Malala Yousafzai,4.16,2012.0,"Nonfiction, Biography, Memoir",0
+772,Walks Away Woman,Ki Longfellow,4.37,2013.0,"Survival, Adventure, Fiction",2
+773,"Always Remember: Ben's Story (Ravenswood, #3)",Mary Balogh,4.15,2024.0,"Romance, Historical Romance, Historical",2
+774,The Waste Land,T.S. Eliot,4.11,1922.0,"Poetry, Classics, Fiction",2
+775,"Crossroads and the Himalayan Crystals (Crossroads, #1)",C. Toni Graham,4.33,2012.0,"Fantasy, Contemporary, Drama",2
+776,The Town the World Forgot (The Town That Shouldn't Exist #1),Boris Bacic,4.19,2024.0,"Horror, Thriller, Paranormal",2
+777,"The Hate U Give (The Hate U Give, #1)",Angie Thomas,4.46,2017.0,"Young Adult, Fiction, Contemporary",2
+778,Misery,Stephen        King,4.23,1987.0,"Horror, Fiction, Thriller",2
+779,"The Last Olympian (Percy Jackson and the Olympians, #5)",Rick Riordan,4.55,2009.0,"Fantasy, Young Adult, Mythology",2
+780,Of Human Bondage,W. Somerset Maugham,4.15,1915.0,"Fiction, Classics, Literature",2
+781,Yildun: Worldmaker of Yand,Andri E. Elia,4.39,2022.0,"Contemporary, Drama, Novels",2
+782,An American Beauty,Shana Abe,4.14,2023.0,"Historical Fiction, Fiction, Romance",2
+783,Dreams from My Father: A Story of Race and Inheritance,Barack Obama,3.94,1995.0,"Nonfiction, Biography, Memoir",0
+784,Last Tang Standing,Lauren  Ho,3.52,2020.0,"Romance, Fiction, Contemporary",2
+785,"Insurgent (Divergent, #2)",Veronica Roth,3.97,2012.0,"Young Adult, Dystopia, Fantasy",2
+786,Collapse: How Societies Choose to Fail or Succeed,Jared Diamond,3.93,2004.0,"History, Nonfiction, Science",0
+787,Under the Banner of Heaven: A Story of Violent Faith,Jon Krakauer,4.01,2003.0,"Nonfiction, True Crime, History",0
+788,His Forefathers and Mick,Michael G. Kramer,4.38,2024.0,"Drama, Novels, Contemporary",2
+789,Not a Speck of Light: Stories,Laird Barron,4.12,2024.0,"Horror, Short Stories, Mystery",2
+790,"Ella Enchanted (Ella Enchanted, #1)",Gail Carson Levine,4.01,1997.0,"Fantasy, Young Adult, Fiction",2
+791,"Storm and Fury (The Harbinger, #1)",Jennifer L. Armentrout,4.04,2019.0,"Fantasy, Romance, Young Adult",2
+792,"The Accidental Further Adventures of the Hundred-Year-Old Man (The Hundred-Year-Old Man, #2)",Jonas Jonasson,3.73,2018.0,"Fiction, Humor, Contemporary",2
+793,A Heartbreaking Work of Staggering Genius,Dave Eggers,3.69,2000.0,"Fiction, Contemporary, Literature",2
+794,The Sorrows of Young Werther,Johann Wolfgang von Goethe,3.69,1774.0,"Fiction, German Literature, Classics",2
+795,I Am the Messenger,Markus Zusak,4.03,2002.0,"Young Adult, Fiction, Mystery",2
+796,"Boy of Chaotic Making (Whimbrel House, #3)",Charlie N. Holmberg,4.29,2024.0,"Fantasy, Fiction, Romance",2
+797,Contact,Carl Sagan,4.15,1985.0,"Science Fiction, Fiction, Classics",2
+798,Someone Else's Bucket List,Amy T. Matthews,4.0,2023.0,"Fiction, Romance, Contemporary",2
+800,"Rivers of London (Rivers of London, #1)",Ben Aaronovitch,3.86,2011.0,"Fantasy, Urban Fantasy, Mystery",2
+801,Listen for the Lie,Amy Tintera,4.09,2024.0,"Mystery, Thriller, Audiobook",2
+802,Just Love Her,Raz Mihal,4.3,2024.0,"Contemporary, Self Help, Philosophy",2
+803,"Shift (Silo, #2)",Hugh Howey,4.13,2013.0,"Science Fiction, Fiction, Dystopia",2
+804,A Man Called Ove,Fredrik Backman,4.38,2012.0,"Fiction, Contemporary, Audiobook",2
+805,"If I Stay (If I Stay, #1)",Gayle Forman,3.91,2009.0,"Young Adult, Romance, Contemporary",2
+806,Twisted Ties (The Arrow Hart Academy #2),Hannah Haze,4.17,2024.0,"Fantasy, Reverse Harem, Magic",2
+807,Dubliners,James Joyce,3.84,1914.0,"Classics, Fiction, Short Stories",2
+808,"Savage Bonds (The Bonds That Tie, #2)",J. Bree,4.25,2021.0,"Fantasy, Reverse Harem, Romance",2
+809,Hitman Anders and the Meaning of It All,Jonas Jonasson,3.42,2015.0,"Fiction, Humor, Contemporary",2
+810,"Ral's Woman (Zorn Warriors, #1)",Laurann Dohner,3.82,2009.0,"Romance, Science Fiction, Aliens",2
+811,Complete Works of Arthur Conan Doyle,Arthur Conan Doyle,4.49,1928.0,"Classics, Fiction, Mystery",2
+812,"Spark of the Everflame (Kindred's Curse, #1)",Penn Cole,4.2,2023.0,"Fantasy, Romantasy, Romance",2
+813,"Pride and Prejudice, Mansfield Park, Persuasion",Jane Austen,4.51,1976.0,"Classics, Fiction, Romance",2
+814,The Innocent Man: Murder and Injustice in a Small Town,John Grisham,3.86,2006.0,"Nonfiction, True Crime, Crime",2
+815,Stardust,Neil Gaiman,4.1,1999.0,"Fantasy, Fiction, Young Adult",2
+816,"Fifty Shades of Grey (Fifty Shades, #1)",E.L. James,3.67,2011.0,"Fiction, BDSM, Contemporary",2
+817,"Eon (The Way, #1)",Greg Bear,3.88,1985.0,"Science Fiction, Fiction, Space Opera",2
+818,As I Lay Dying,William Faulkner,3.72,1930.0,"Classics, Fiction, Literature",2
+819,A Passage to India,E.M. Forster,3.68,1924.0,"Fiction, Historical Fiction, Classics",2
+820,Seabiscuit: An American Legend,Laura Hillenbrand,4.23,1999.0,"Nonfiction, History, Biography",0
+821,"My Roommate Is a Vampire (My Vampires, #1)",Jenna Levine,3.47,2023.0,"Fantasy, Vampires, Paranormal",2
+822,Starter Villain,John Scalzi,4.14,2023.0,"Science Fiction, Fiction, Fantasy",2
+823,"Every Heart a Doorway (Wayward Children, #1)",Seanan McGuire,3.81,2016.0,"Fantasy, Young Adult, Fiction",2
+824,The Ocean at the End of the Lane,Neil Gaiman,4.02,2013.0,"Fantasy, Fiction, Magical Realism",2
+825,"The Selection (The Selection, #1)",Kiera Cass,4.07,2012.0,"Romance, Young Adult, Dystopia",2
+826,Black Fire,William Kely McClung,4.3,2023.0,"Thriller, Fiction, Mystery",2
+827,"The Undertaking of Hart and Mercy (Hart and Mercy, #1)",Megan Bannen,4.07,2022.0,"Fantasy, Romance, Fiction",2
+828,Quantum Energetics and Spirituality Volume 1: Aligning with Universal Consciousness,Kenneth Schmitt,4.38,2021.0,"Novels, Contemporary, Drama",2
+829,"Uglies (Uglies, #1)",Scott Westerfeld,3.85,2005.0,"Young Adult, Dystopia, Science Fiction",2
+830,"Clockwork Angel (The Infernal Devices, #1)",Cassandra Clare,4.31,2010.0,"Fantasy, Young Adult, Romance",2
+831,"The Alienist (Dr. Laszlo Kreizler, #1)",Caleb Carr,4.06,1994.0,"Historical Fiction, Mystery, Fiction",2
+832,Under the Whispering Door,T.J. Klune,4.13,2021.0,"Fantasy, Fiction, Romance",2
+833,Galatea,Madeline Miller,3.93,2013.0,"Mythology, Fantasy, Short Stories",2
+834,"The Somerset Slayings (DI Haig Crime Thrillers, #1)",David J. Gatward,4.34,2024.0,"Police, Crime, Young Adult",2
+835,Ficciones,Jorge Luis Borges,4.41,1944.0,"Fiction, Short Stories, Magical Realism",2
+836,The Sixth Borough,Alan    Bradley,4.43,2024.0,"Novels, Contemporary, Drama",2
+837,Whisk Of Dust: Too Unseen Distance,Sherman Kennon,4.37,2024.0,"Drama, Contemporary, Novels",2
+838,Adoption Stories,Janine Myung Ja,4.34,2021.0,"Adoption, Nonfiction, Parenting",3
+839,The Education of Little Tree,Forrest Carter,4.14,1976.0,"Fiction, Historical Fiction, Young Adult",2
+840,The Heart of Aleppo: A Story of the Syrian Civil War,Ammar Habib,4.4,2018.0,"Historical Fiction, Young Adult, Fiction",2
+841,The Satsuma Complex,Bob Mortimer,3.68,2022.0,"Fiction, Mystery, Audiobook",2
+842,Mind's Eye,Douglas E. Richards,4.07,2014.0,"Science Fiction, Fiction, Thriller",2
+843,Games of Command,Linnea Sinclair,4.04,2002.0,"Romance, Science Fiction, Science Fiction Romance",2
+844,Wraith (The Convergence War Book 1),M.R. Forbes,4.28,2024.0,"Science Fiction, Speculative Fiction, Space Opera",2
+845,A New Earth: Awakening to Your Life's Purpose,Eckhart Tolle,4.16,2005.0,"Spirituality, Nonfiction, Self Help",2
+846,"Blood Meridian, or, the Evening Redness in the West",Cormac McCarthy,4.16,1985.0,"Fiction, Historical Fiction, Westerns",2
+847,"Susan, You're The Chosen One (Welcome To Midlife Magic, #1)",Lauretta Hignett,4.32,2024.0,"Fantasy, Fiction, Teen",2
+848,The Demon-Haunted World: Science as a Candle in the Dark,Carl Sagan,4.29,1995.0,"Science, Nonfiction, Philosophy",2
+849,"The MacKinnon's Bride (The Highland Brides, #1)",Tanya Anne Crosby,3.99,1996.0,"Romance, Historical Romance, Historical",2
+850,"The Worst Ship in the Fleet (Dumb Luck and Dead Heroes, #1)",Skyler Ramirez,4.05,2023.0,"Science Fiction, Fiction, Space Opera",2
+851,"The Long Way to a Small, Angry Planet (Wayfarers, #1)",Becky  Chambers,4.18,2014.0,"Science Fiction, Fiction, LGBT",2
+852,"The Last Unicorn (The Last Unicorn, #1)",Peter S. Beagle,4.16,1968.0,"Fantasy, Fiction, Young Adult",2
+853,From Manchester to the Arctic,Sheena  Billett,4.3,2023.0,"Novels, Young Adult, Action",2
+854,"The Empress: (The Emperor, The Son and The Thief, #4)",Robert         Reid,4.41,2024.0,"Novels, Contemporary, Drama",2
+855,"Oryx and Crake (MaddAddam, #1)",Margaret Atwood,4.01,2003.0,"Fiction, Science Fiction, Dystopia",2
+856,Le Morte d'Arthur: King Arthur and the Legends of the Round Table,Thomas Malory,3.92,1485.0,"Classics, Fantasy, Fiction",2
+857,And the Mountains Echoed,Khaled Hosseini,4.08,2012.0,"Fiction, Historical Fiction, Contemporary",2
+858,Just Once,Karen Kingsbury,4.41,2023.0,"Historical Fiction, Romance, Fiction",2
+859,Cutting for Stone,Abraham   Verghese,4.33,2009.0,"Fiction, Historical Fiction, Africa",2
+860,"Crank Palace (The Maze Runner, #3.5)",James Dashner,4.09,2020.0,"Dystopia, Young Adult, Science Fiction",2
+861,"The Color of Magic (Discworld, #1; Rincewind, #1)",Terry Pratchett,4.0,1983.0,"Fantasy, Fiction, Humor",2
+862,Little Women / Little Men / Jo's Boys,Louisa May Alcott,4.36,1868.0,"Classics, Fiction, Literature",2
+863,A Million Little Pieces,James Frey,3.69,2003.0,"Fiction, Contemporary, Psychology",2
+864,James,Percival Everett,4.51,2024.0,"Fiction, Historical Fiction, Audiobook",2
+865,"Small Gods (Discworld, #13)",Terry Pratchett,4.32,1992.0,"Fantasy, Fiction, Humor",2
+866,The Patient's Secret,Loreth Anne White,4.27,2022.0,"Thriller, Mystery, Mystery Thriller",2
+867,All the President’s Men,Carl Bernstein,4.18,1974.0,"History, Nonfiction, Politics",0
+868,The Shock Doctrine: The Rise of Disaster Capitalism,Naomi Klein,4.28,2007.0,"Nonfiction, Politics, Economics",0
+869,The Dispossessed: An Ambiguous Utopia,Ursula K. Le Guin,4.25,1974.0,"Science Fiction, Fiction, Fantasy",2
+870,The Nightingale,Kristin Hannah,4.64,2015.0,"Historical Fiction, Fiction, Historical",2
+871,"Rich Dad, Poor Dad",Robert T. Kiyosaki,4.11,1997.0,"Finance, Business, Nonfiction",2
+872,"Mickey7 (Mickey7, #1)",Edward Ashton,3.78,2022.0,"Science Fiction, Fiction, Audiobook",2
+873,"Girl, Interrupted",Susanna Kaysen,3.94,1993.0,"Nonfiction, Memoir, Mental Health",0
+874,The Virgin Suicides,Jeffrey Eugenides,3.79,1993.0,"Fiction, Young Adult, Literary Fiction",2
+875,"The Hunt for Red October (Jack Ryan, #3)",Tom Clancy,4.11,1984.0,"Fiction, Thriller, Military Fiction",2
+876,If on a Winter’s Night a Traveler,Italo Calvino,4.02,1979.0,"Fiction, Classics, Italian Literature",2
+877,The Prophet and the Idiot,Jonas Jonasson,3.64,2022.0,"Fiction, Humor, Comedy",2
+878,"The Lost Symbol (Robert Langdon, #3)",Dan    Brown,3.76,2009.0,"Fiction, Mystery, Thriller",2
+879,"Light Bringer (Red Rising Saga, #6)",Pierce Brown,4.75,2023.0,"Science Fiction, Fantasy, Fiction",2
+880,Down and Out in Paris and London,George Orwell,4.09,1933.0,"Nonfiction, Classics, Memoir",0
+881,A Town Like Alice,Nevil Shute,4.15,1950.0,"Fiction, Historical Fiction, Classics",2
+882,"Columbus Day (Expeditionary Force, #1)",Craig Alanson,4.26,2016.0,"Science Fiction, Audiobook, Fiction",2
+883,"On Death and Dying: What the Dying Have to Teach Doctors, Nurses, Clergy and Their Own Families",Elisabeth Kübler-Ross,4.16,1969.0,"Psychology, Nonfiction, Death",2
+884,The Fall,Albert Camus,4.04,1956.0,"Fiction, Philosophy, France",2
+885,Termination Shock,Neal Stephenson,3.84,2021.0,"Science Fiction, Fiction, Audiobook",2
+886,"Riley Thorn and the Dead Guy Next Door (Riley Thorn, #1)",Lucy Score,4.17,2020.0,"Romance, Mystery, Paranormal",2
+887,Brideshead Revisited,Evelyn Waugh,4.0,1945.0,"Fiction, Historical Fiction, Classics",2
+888,"Left Behind (Left Behind, #1)",Tim LaHaye,3.86,1995.0,"Fiction, Christian, Christian Fiction",2
+889,"The Cheat Code (Wisdom Revolution, #3)",Misba,4.74,2023.0,"Fantasy, Science Fiction, Science Fiction Fantasy",2
+890,"City of Glass (The Mortal Instruments, #3)",Cassandra Clare,4.27,2009.0,"Fantasy, Young Adult, Romance",2
+891,"Wayside School Is Falling Down (Wayside School, #2)",Louis Sachar,4.17,1989.0,"Childrens, Fiction, Humor",2
+892,Long Walk to Freedom,Nelson Mandela,4.36,1994.0,"Biography, Nonfiction, History",0
+893,High Fidelity,Nick Hornby,3.9,1995.0,"Fiction, Music, Contemporary",2
+894,"Never Fall for a Dragon (Mate Mountain, #1)",Lola Glass,3.94,2024.0,"Fantasy, Romance, Dragons",2
+895,The Day the Crayons Quit,Drew Daywalt,4.42,2013.0,"Picture Books, Childrens, Fiction",2
+896,The Sacred Well Murders (Mary Wandwalker #1),Susan  Rowland,4.29,2022.0,"Mystery, Fiction, Contemporary",2
+897,Eleanor & Park,Rainbow Rowell,3.93,2012.0,"Young Adult, Romance, Fiction",2
+898,Columbine,Dave Cullen,4.29,2009.0,"Nonfiction, True Crime, History",0
+899,"The Way of Kings (The Stormlight Archive, #1)",Brandon Sanderson,4.67,2010.0,"Fantasy, Fiction, Epic Fantasy",2
+900,"Risen (The Boy in the Iron Box, #4)",Guillermo del Toro,4.03,2024.0,"Horror, Fiction, Short Stories",2
+901,The Pearl,John Steinbeck,3.55,1947.0,"Fiction, Literature, School",2
+902,"Unwind (Unwind, #1)",Neal Shusterman,4.17,2007.0,"Young Adult, Dystopia, Science Fiction",2
+903,Steve Jobs,Walter Isaacson,4.15,2011.0,"Biography, Nonfiction, Business",0
+904,The Artifact,David Collins,4.28,2024.0,"Science Fiction, Science Fiction Fantasy, Speculative Fiction",2
+905,"Engines of Oblivion (The Memory War, #2)",Karen Osborne,4.02,2021.0,"Science Fiction, Young Adult, Space",2
+906,"I, Claudius (Claudius, #1)",Robert Graves,4.25,1934.0,"Historical Fiction, Fiction, Classics",2
+907,Lust for Life,Irving Stone,4.27,1934.0,"Historical Fiction, Art, Fiction",2
+908,Zorba the Greek,Nikos Kazantzakis,4.04,1946.0,"Fiction, Classics, Philosophy",2
+909,"Trials of Conviction (The Firebird Chronicles, #5)",T.A. White,4.52,2023.0,"Science Fiction, Romance, Fantasy",2
+910,Found,Erin Kinsley,4.11,2019.0,"Mystery, Thriller, Fiction",2
+911,"Matching Configurations (Quantum Roots, #3)",Kyle Keyes,4.3,2019.0,"Fiction, Novels, Science Fiction",2
+912,Momo,Michael Ende,4.34,1973.0,"Fantasy, Fiction, Classics",2
+913,The Bad Seed (The Food Group #1),Jory John,4.33,2017.0,"Picture Books, Childrens, Fiction",2
+914,Coraline,Neil Gaiman,4.13,2002.0,"Fantasy, Horror, Fiction",2
+916,The Orphanage By The Lake,Daniel G.  Miller,3.95,2024.0,"Thriller, Mystery, Mystery Thriller",2
+917,"Animal, Vegetable, Miracle: A Year of Food Life",Barbara Kingsolver,4.05,2007.0,"Nonfiction, Food, Memoir",0
+918,The Joy of Cooking,Irma S. Rombauer,4.13,1931.0,"Cookbooks, Cooking, Food",1
+919,Winter Garden,Kristin Hannah,4.28,2010.0,"Historical Fiction, Fiction, Historical",2
+920,Becoming,Michelle Obama,4.44,2018.0,"Nonfiction, Memoir, Biography",0
+921,The Invisible Boy,Trudy Ludwig,4.43,2013.0,"Picture Books, Childrens, Friendship",2
+922,The Ocean at the End of the Lane,Neil Gaiman,4.02,2013.0,"Fantasy, Fiction, Magical Realism",2
+923,On Destiny,Aileen Erin,4.2,2022.0,"Science Fiction Fantasy, Science Fiction, Fiction",2
+924,We,Yevgeny Zamyatin,3.88,1924.0,"Fiction, Science Fiction, Classics",2
+925,"A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",Sarah  Hawley,3.64,2023.0,"Romance, Fantasy, Paranormal",2
+926,Papillon,Henri Charrière,4.23,1969.0,"Nonfiction, Biography, Classics",0
+927,The Tin Drum,Günter Grass,3.95,1959.0,"Fiction, Classics, German Literature",2
+928,"Romancing Mister Bridgerton (Bridgertons, #4)",Julia Quinn,3.88,2002.0,"Historical Romance, Historical Fiction, Historical",2
+929,"Hunt the Stars (Starlight's Shadow, #1)",Jessie Mihalik,4.03,2022.0,"Romance, Science Fiction, Fantasy",2
+930,The Echo of Old Books,Barbara  Davis,4.27,2023.0,"Historical Fiction, Fiction, Romance",2
+931,Service Model,Adrian Tchaikovsky,4.05,2024.0,"Science Fiction, Fiction, Audiobook",2
+932,Jonathan Strange & Mr Norrell,Susanna Clarke,3.87,2004.0,"Fantasy, Fiction, Historical Fiction",2
+933,"Ice Planet Barbarians (Ice Planet Barbarians, #1)",Ruby Dixon,3.63,2015.0,"Romance, Science Fiction, Fantasy",2
+934,John Adams,David McCullough,4.08,2001.0,"History, Biography, Nonfiction",0
+935,Les Fleurs du Mal,Charles Baudelaire,4.2,1857.0,"France, Poetry, French Literature",2
+936,The Runaway Bunny,Margaret Wise Brown,4.09,1942.0,"Picture Books, Childrens, Fiction",2
+937,The Hobbit,Chuck Dixon,4.51,1989.0,"Fantasy, Graphic Novels, Classics",2
+938,Secrets of the Realm,Bev Stout,3.97,2013.0,"Historical Fiction, Young Adult, Historical",2
+939,Burned Out,Dean Mafako,4.3,2023.0,"Fiction, Medicine, Medical",2
+940,The Night Before Christmas,Clement Clarke Moore,4.4,1823.0,"Christmas, Childrens, Picture Books",2
+941,"A Feast for Crows (A Song of Ice and Fire, #4)",George R.R. Martin,4.17,2005.0,"Fantasy, Fiction, Epic Fantasy",2
+942,Little Blue Truck,Alice Schertle,4.51,2008.0,"Picture Books, Childrens, Fiction",2
+943,"Compulsory (The Murderbot Diaries, #0.5)",Martha Wells,4.32,2018.0,"Science Fiction, Short Stories, Fiction",2
+944,The Man in the High Castle,Philip K. Dick,3.59,1962.0,"Science Fiction, Fiction, Classics",2
+945,Black Hawk Down: A Story of Modern War,Mark Bowden,4.3,1999.0,"History, Nonfiction, Military Fiction",0
+946,"Dark Horse (Class 5, #1)",Michelle Diener,4.09,2015.0,"Science Fiction, Romance, Aliens",2
+947,"The Bourne Identity (Jason Bourne, #1)",Robert Ludlum,4.05,1980.0,"Fiction, Thriller, Mystery",2
+948,Not Till We Are Lost (Bobiverse #5),Dennis E. Taylor,4.3,2024.0,"Science Fiction, Audiobook, Fiction",2
+949,The Magus,John Fowles,4.05,1965.0,"Fiction, Fantasy, Mystery",2
+950,"Dark Island (Orkney Mysteries, #1)",Daniel Aubrey,4.13,2024.0,"Mystery, Crime, Thriller",2
+951,"Starsight (Skyward, #2)",Brandon Sanderson,4.35,2019.0,"Science Fiction, Young Adult, Fantasy",2
+952,"Quantum Roots (Quantum Roots, #1)",Kyle Keyes,4.27,2012.0,"Fiction, Science Fiction, Contemporary",2
+953,"Book of Mormon, Doctrine and Covenants, Pearl of Great Price",The Church of Jesus Christ of Latter-day Saints,4.36,1950.0,"Religion, Nonfiction, Lds",2
+954,Soul Cure: How to Heal Your Pain and Discover Your Purpose,Gregory Dickow,3.55,2022.0,"Self Help, Nonfiction, Personal Development",2
+955,Antarctica Station,A.G. Riddle,3.99,2024.0,"Science Fiction, Fiction, Adventure",2
+956,His Forefathers and Mick 2nd Edition,Michael G. Kramer,4.36,2024.0,"Drama, Novels, Contemporary",2
+957,Move to Millions: The Proven Framework to Become a Million Dollar CEO with Grace & Ease Instead of Hustle & Grind,Darnyelle Jervey Harmon,4.29,2023.0,"Self Help, Personal Development, Nonfiction",2
+958,Nineteen Minutes,Jodi Picoult,4.17,2007.0,"Fiction, Contemporary, Drama",2
+959,Livesuit (The Captive’s War #1.5),James S.A. Corey,4.34,2024.0,"Science Fiction, Fiction, Audiobook",2
+960,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,Oliver Sacks,4.05,1985.0,"Nonfiction, Psychology, Science",2
+961,"Hyperion (Hyperion Cantos, #1)",Dan Simmons,4.27,1989.0,"Science Fiction, Fiction, Fantasy",2
+962,"Half a Soul (Regency Faerie Tales, #1)",Olivia Atwater,4.07,2020.0,"Fantasy, Romance, Historical Fiction",2
+963,Educated,Tara Westover,4.47,2018.0,"Nonfiction, Memoir, Biography",0
+964,Motive Black: A novel (Motive Black Series Book 1),Adam Scott Huerta,4.34,2024.0,"Novels, Drama, Contemporary",2
+965,The Vagina Monologues,V (formerly Eve Ensler),3.87,1996.0,"Feminism, Nonfiction, Plays",2
+966,Where the Crawdads Sing,Delia Owens,4.38,2018.0,"Fiction, Historical Fiction, Mystery",2
+967,"Polaris Rising (Consortium Rebellion, #1)",Jessie Mihalik,3.92,2019.0,"Romance, Science Fiction, Space Opera",2
+968,"Good Girl, Bad Blood (A Good Girl's Guide to Murder, #2)",Holly  Jackson,4.27,2020.0,"Mystery, Young Adult, Thriller",2
+969,"The Most Magnificent Thing (Most Magnificent, 1)",Ashley Spires,4.29,2014.0,"Picture Books, Childrens, Fiction",2
+970,The Going To Bed Book,Sandra Boynton,4.24,1982.0,"Picture Books, Childrens, Fiction",2
+971,The Pink Cadillac,Rebecca Harlem,4.47,2024.0,"Contemporary, Novels, Drama",2
+972,The Dot,Peter H. Reynolds,4.26,2003.0,"Picture Books, Art, Childrens",2
+973,One More Life to Live (Edward and the Bricklayer Book 1),Steven Decker,4.38,2024.0,"Novels, Contemporary, Drama",2
+974,"AI Doctor: The Rise of Artificial Intelligence in Healthcare - A Guide for Users, Buyers, Builders, and Investors",Ronald M. Razmi,4.27,2024.0,"Nonfiction, How To, Education",0
+975,For the Love of Armin,Michael G. Kramer,4.3,2015.0,"Fiction, Adventure, Historical Fiction",2
+976,I Am Legend and Other Stories,Richard Matheson,4.0,1954.0,"Horror, Fiction, Science Fiction",2
+977,"The Asset (Lance Spector, #1)",Saul Herzog,4.29,2020.0,"Thriller, Fiction, Espionage",2
+978,My Big Fat Zombie Goldfish,Mo O'Hara,3.89,2013.0,"Childrens, Fiction, Humor",2
+979,The Curious Secrets of Yesterday,Namrata  Patel,3.99,2024.0,"Fiction, Contemporary, Romance",2
+980,Revolutionary Road,Richard Yates,3.93,1961.0,"Fiction, Classics, Historical Fiction",2
+981,The Death of Ivan Ilych,Leo Tolstoy,4.13,1886.0,"Classics, Fiction, Russia",2
+982,An Accidental Goddess,Linnea Sinclair,4.03,2002.0,"Romance, Science Fiction, Science Fiction Romance",2
+983,The House of Mirth,Edith Wharton,3.97,1905.0,"Fiction, Classics, Historical Fiction",2
+984,Paradox Effect: Time Travel and Purified DNA Merge to Halt the Collapse of Human Existence,Gabriel F.W. Koch,4.33,2015.0,"Fiction, Science Fiction, Time Travel",2
+985,Bleak House,Charles Dickens,4.02,1853.0,"Fiction, Classics, Literature",2
+986,The Cases Nobody Wanted (O'Shaughnessy Investigations Inc. Mystery Series Book 1),A.G. Russo,4.36,2023.0,"Contemporary, Drama, Novels",2
+987,The World Without Us,Alan Weisman,3.81,2007.0,"Nonfiction, Science, Environment",2
+988,The Tale of Despereaux,Kate DiCamillo,4.07,2003.0,"Fantasy, Fiction, Childrens",2
+989,Start with Why: How Great Leaders Inspire Everyone to Take Action,Simon Sinek,4.1,2009.0,"Business, Leadership, Nonfiction",2
+990,The Hours,Michael Cunningham,3.95,1998.0,"Fiction, Historical Fiction, Contemporary",2
+991,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,Todd Burpo,4.03,2010.0,"Nonfiction, Christian, Religion",2
+992,Geek Love,Katherine Dunn,3.95,1989.0,"Fiction, Horror, Fantasy",2
+993,Magenta,John Payton Foden,4.26,2021.0,"Historical Fiction, Fiction, War",2
+994,The Southern Lawyer (Joe Hennessy Legal Thriller #1),Peter O'Mahoney,4.22,2022.0,"Mystery, Fiction, Thriller",2
+995,"A Canticle for Leibowitz (St. Leibowitz, #1)",Walter M. Miller Jr.,3.99,1959.0,"Science Fiction, Fiction, Post Apocalyptic",2
+996,"Executive Orders (Jack Ryan, #8)",Tom Clancy,4.11,1996.0,"Fiction, Thriller, Military Fiction",2
+997,"Mistborn: The Final Empire (Mistborn, #1)",Brandon Sanderson,4.49,2006.0,"Fantasy, Fiction, High Fantasy",2
+998,"Graceling (Graceling Realm, #1)",Kristin Cashore,4.07,2008.0,"Fantasy, Young Adult, Romance",2
+999,"The Time Trilogy (Time Quintet, #1-3)",Madeleine L'Engle,4.31,1963.0,"Fantasy, Fiction, Classics",2
